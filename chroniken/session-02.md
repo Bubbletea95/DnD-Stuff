@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Session 02: Die erste Reise der Fünf"
-parent: chroniken
+parent: Chroniken
 nav_order: -2
 ---
 
