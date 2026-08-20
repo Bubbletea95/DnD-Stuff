@@ -38,3 +38,22 @@ a:hover {
 .main {
   background: rgba(255, 252, 240, 0.85) !important;
 }
+
+.pergament-box {
+  background-color: #f4eacc;
+  background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png");
+  border: 2px solid #8c2a1c;
+  border-radius: 6px;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2);
+  color: #2b1e16;
+  font-family: 'Georgia', serif;
+}
+
+.pergament-box h3 {
+  margin-top: 0;
+  color: #5c1d11;
+  border-bottom: 1px solid #a3865c;
+  padding-bottom: 5px;
+}
