@@ -1,40 +1,22 @@
-/* 1. Globaler Hintergrund & Schriften */
+/* 1. System-Variablen überschreiben (muss ganz oben stehen!) */
+$sidebar-width: 200px;
+
+/* 2. Globaler Hintergrund für die gesamte Seite */
 html, body, .main, .main-content-wrap, .main-content, .page-content {
   background-color: #f4eacc !important;
   background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
   color: #2b1e16 !important;
 }
 
-/* 2. Seitenleiste Styling */
+/* 3. Seitenleiste im Pergament-Look */
 .side-bar {
   background-color: rgba(235, 223, 190, 0.95) !important;
   border-right: 2px solid #a3865c !important;
 }
 
-/* 3. Saubere Breitenanpassung der Seitenleiste (ohne das Grid zu brechen) */
-$sidebar-width: 200px;
-
-.side-bar {
-  @media (min-width: 50rem) {
-    width: $sidebar-width !important;
-  }
-}
-
-.main {
-  @media (min-width: 50rem) {
-    margin-left: $sidebar-width !important;
-  }
-}
-
-.site-header {
-  @media (min-width: 50rem) {
-    width: calc(100% - #{$sidebar-width}) !important;
-  }
-}
-
-/* 4. Titel & Suche anpassen */
+/* 4. Titel & Suche optisch anpassen */
 .site-title {
-  font-size: 1.1rem !important;
+  font-size: 1.05rem !important;
   word-wrap: break-word !important;
 }
 
@@ -42,7 +24,7 @@ $sidebar-width: 200px;
   background-color: transparent !important;
 }
 
-/* 5. Extra Pergament-Box */
+/* 5. Pergament-Box */
 .pergament-box {
   background-color: #f4eacc !important;
   background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
