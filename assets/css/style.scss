@@ -1,0 +1,43 @@
+---
+---
+
+/* Importiert das Standard-Theme */
+@import "{{ site.theme }}";
+
+/* Schriftart aus Google Fonts laden (Fantasy-Style) */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Fauna+One&display=swap');
+
+/* Hintergrund & globale Schriftarten */
+body {
+  font-family: 'Fauna One', serif;
+  background-color: #f4eacc; /* Pergament-Farbton */
+  background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png"); /* Dezent gealterte Textur */
+  color: #2b1e16; /* Dunkelbraune Schrift für besseren Kontrast */
+}
+
+/* Überschriften im Fantasy-Look */
+h1, h2, h3, h4 {
+  font-family: 'Cinzel', serif;
+  color: #5c1d11; /* Altes Blutrot / Drachenrot */
+  border-bottom: 1px solid #a3865c;
+}
+
+/* Links im Pergament-Design */
+a {
+  color: #8c2a1c;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #d94e34;
+  text-decoration: underline;
+}
+
+/* Container / Hauptbereich leicht abheben */
+.main-content {
+  background: rgba(255, 252, 240, 0.85); /* Leicht transparenter Pergament-Kasten */
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
