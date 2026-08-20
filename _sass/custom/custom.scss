@@ -17,21 +17,25 @@ html, body, .main, .main-content-wrap, .main-content, .page-content {
     display: flex !important;
     max-width: 100% !important;
     width: 100% !important;
+    margin: 0 !important;
   }
 
   html body .side-bar {
-    position: relative !important;
+    position: fixed !important;
     flex: 0 0 260px !important;
     width: 260px !important;
     min-width: 260px !important;
     margin: 0 !important;
     left: 0 !important;
+    top: 0 !important;
+    height: 100vh !important;
   }
 
   html body .main {
     flex: 1 1 auto !important;
     max-width: none !important;
-    width: calc(100% - 260px) !important;
+    width: 100% !important;
+    margin-left: 260px !important;
     margin: 0 !important;
     left: 0 !important;
   }
@@ -39,7 +43,7 @@ html, body, .main, .main-content-wrap, .main-content, .page-content {
   html body .main-content-wrap,
   html body .main-content,
   html body .site-header {
-    max-width: none !important;
+    max-width: 100% !important;
     margin-left: 0 !important;
     margin-right: 0 !important;
   }
