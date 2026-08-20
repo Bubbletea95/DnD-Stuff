@@ -34,9 +34,9 @@ html, body, .main, .main-content-wrap, .main-content, .page-content {
   html body .main {
     flex: 1 1 auto !important;
     max-width: none !important;
-    width: 100% !important;
-    margin-left: 260px !important;
+    width: calc(100% - 260px) !important;
     margin: 0 !important;
+    margin-left: 260px !important;
     left: 0 !important;
   }
 
