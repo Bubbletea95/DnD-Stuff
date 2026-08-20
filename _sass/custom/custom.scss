@@ -11,34 +11,46 @@ html, body, .main, .main-content-wrap, .main-content, .page-content {
   border-right: 2px solid #a3865c !important;
 }
 
-/* 3. Seitenleisten-Inhalte zentrieren & Einrückung zurücksetzen */
-.nav-category,
-.nav-list,
-.nav-list-item,
+/* 3. Breitbild-Zentrierung aufheben & Seitenleiste am Inhalt halten */
+@media (min-width: 50rem) {
+  /* Hebt die automatische Zentrierung/Margin des Theme-Containers auf */
+  .page-wrap,
+  .main-content-wrap,
+  .main {
+    max-width: none !important;
+    margin-left: 0 !important;
+  }
+
+  /* Setzt die Seitenleiste wieder starr an den linken Rand */
+  .side-bar {
+    position: fixed !important;
+    top: 0 !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    width: 260px !important; /* Standardbreite des Themes für perfektes Verhalt */
+  }
+
+  /* Schiebt den Inhalt passgenau neben die fixe Seitenleiste */
+  .main-main,
+  .main,
+  .site-header {
+    margin-left: 260px !important;
+    width: calc(100% - 260px) !important;
+  }
+}
+
+/* 4. Textausrichtung in der Leiste */
 .nav-list-link,
-.site-header,
 .site-title {
-  transform: none !important;
-  margin-left: 0 !important;
-  left: 0 !important;
+  word-wrap: break-word !important;
 }
 
-/* Platzierung des Textes innerhalb der Seitenleiste korrigieren */
-.nav-list-link {
-  padding-left: 1.5rem !important;
-  padding-right: 0.5rem !important;
-}
-
-.nav-list-item .nav-list .nav-list-link {
-  padding-left: 2.5rem !important; /* Etwas mehr Einrückung für Session 01, 02... */
-}
-
-/* 4. Suche optisch anpassen */
+/* 5. Suche optisch anpassen */
 .search, .search-input {
   background-color: transparent !important;
 }
 
-/* 5. Extra Pergament-Box */
+/* 6. Extra Pergament-Box */
 .pergament-box {
   background-color: #f4eacc !important;
   background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
