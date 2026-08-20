@@ -7,11 +7,9 @@ nav_order: -3
 
 # 📜 Session 03: Gullykin und seine Geheimnisse
 
-<div align="center">
-
-**Datum:** 19.August 2026 | **Ort:** Gullykin
-
-</div>
+<p markdown="1">
+**Datum:** 19. August 2026 | **Ort:** Gullykin
+</p>
 
 ---
 <div class="pergament-box" markdown="1">
