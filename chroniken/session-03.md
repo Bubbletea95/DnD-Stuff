@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Session 03: Die Reise der Fünf"
+title: "Session 03: Gullykin und seine Geheimnisse"
 ---
 
 # 📜 Sitzung 03: Die Reise der Fünf
