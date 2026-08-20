@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Session 03: Gullykin und seine Geheimnisse"
-parent: chroniken
+parent: Chroniken
 nav_order: -3
 ---
 
