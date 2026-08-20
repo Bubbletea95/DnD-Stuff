@@ -1,6 +1,9 @@
 ---
 layout: default
-title: Chroniken-Übersicht
+title: 📜 Chroniken
+nav_order: 2
+has_children: true
+permalink: /chroniken/
 ---
 
 # 📜 Chroniken der Schwertküste
