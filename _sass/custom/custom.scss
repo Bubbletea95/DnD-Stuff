@@ -1,52 +1,47 @@
-/* 1. Globaler Hintergrund & Pergament-Look */
+/* 1. Globaler Hintergrund & Farbschema */
 html, body, .main, .main-content-wrap, .main-content, .page-content {
   background-color: #f4eacc !important;
   background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
   color: #2b1e16 !important;
 }
 
-/* 2. Seitenleiste Styling */
+/* 2. Seitenleiste im Pergament-Look */
 .side-bar {
   background-color: rgba(235, 223, 190, 0.95) !important;
   border-right: 2px solid #a3865c !important;
 }
 
-/* 3. Vollbild-Zentrierung aufheben & Seitenleiste fest andocken */
+/* 3. Radikaler Layout-Fix für Vollbild & große Monitore */
 @media (min-width: 50rem) {
-  /* Alle inneren Max-Breiten-Container deaktivieren */
-  .page-wrap,
-  .main,
-  .main-content-wrap,
-  .main-content,
-  .site-header,
-  .site-max-width {
+  html body .page-wrap {
+    display: flex !important;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+
+  html body .side-bar {
+    position: relative !important;
+    flex: 0 0 260px !important;
+    width: 260px !important;
+    min-width: 260px !important;
+    margin: 0 !important;
+    left: 0 !important;
+  }
+
+  html body .main {
+    flex: 1 1 auto !important;
+    max-width: none !important;
+    width: calc(100% - 260px) !important;
+    margin: 0 !important;
+    left: 0 !important;
+  }
+
+  html body .main-content-wrap,
+  html body .main-content,
+  html body .site-header {
     max-width: none !important;
     margin-left: 0 !important;
     margin-right: 0 !important;
-  }
-
-  /* Seitenleiste starr am linken Rand positionieren */
-  .side-bar {
-    position: fixed !important;
-    top: 0 !important;
-    bottom: 0 !important;
-    left: 0 !important;
-    width: 260px !important;
-    z-index: 10 !important;
-  }
-
-  /* Hauptbereich direkt rechts neben die Seitenleiste setzen */
-  .main {
-    margin-left: 260px !important;
-    width: calc(100% - 260px) !important;
-    position: relative !important;
-  }
-
-  /* Header/Suchleiste bündig über den Hauptinhalt legen */
-  .site-header {
-    position: sticky !important;
-    top: 0 !important;
-    width: 100% !important;
   }
 }
 
