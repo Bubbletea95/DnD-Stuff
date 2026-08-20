@@ -3,7 +3,6 @@ layout: default
 title: Chroniken
 nav_order: 2
 has_children: true
-nav_fold: open
 ---
 
 # 📜 Chroniken & Session-Recaps
