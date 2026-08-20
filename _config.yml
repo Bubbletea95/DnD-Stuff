@@ -10,6 +10,3 @@ search_enabled: true
 # Farbschema festlegen (dark, light oder system)
 color_scheme: dark
 
-# Zusatz-Einstellungen
-aux_links:
-  "GitHub Repository": "https://github.com/Bubbletea95/DnD-Stuff"
