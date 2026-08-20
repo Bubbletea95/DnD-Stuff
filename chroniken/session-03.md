@@ -15,7 +15,7 @@ nav_order: -3
 </div>
 
 ---
-<div class="pergament-box">
+<div class="pergament-box" markdown="1">
   
 ## Chronik
 Aufgezeichnet von den Hütern der Zeitlinien.
