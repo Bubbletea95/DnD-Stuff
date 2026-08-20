@@ -11,39 +11,53 @@ html, body, .main, .main-content-wrap, .main-content, .page-content {
   border-right: 2px solid #a3865c !important;
 }
 
-/* 3. Saubere Breitenanpassung & Links wieder sichtbar machen */
+/* 3. Hartes Zurücksetzen des Layout-Grids für Desktops */
 @media (min-width: 50rem) {
+  /* Das gesamte Seiten-Grid auf 200px + Rest umstellen */
+  .page-wrap {
+    display: flex !important;
+  }
+
   .side-bar {
-    width: 220px !important;
+    position: relative !important;
+    flex: 0 0 200px !important;
+    width: 200px !important;
+    min-width: 200px !important;
+    margin-right: 0 !important;
   }
 
-  .main-main,
-  .main,
-  .site-header {
-    margin-left: 220px !important;
+  .main {
+    flex: 1 1 auto !important;
+    margin-left: 0 !important;
+    position: relative !important;
     left: 0 !important;
-    width: auto !important;
+    width: calc(100% - 200px) !important;
+  }
+
+  .main-header {
+    left: 0 !important;
+    width: 100% !important;
   }
 }
 
-/* Innenabstände der Links anpassen, damit nichts abgeschnitten wird */
-.nav-list-link, 
+/* 4. Texte & Links innerhalb der Seitenleiste ausrichten */
+.site-header, .nav-list {
+  padding-left: 0.75rem !important;
+  padding-right: 0.75rem !important;
+}
+
 .site-title {
-  padding-left: 1rem !important;
-  padding-right: 0.5rem !important;
+  font-size: 1rem !important;
   word-wrap: break-word !important;
+  white-space: normal !important;
 }
 
-.site-title {
-  font-size: 1.05rem !important;
-}
-
-/* 4. Suche optisch einpassen */
+/* 5. Suche optisch anpassen */
 .search, .search-input {
   background-color: transparent !important;
 }
 
-/* 5. Extra Pergament-Box */
+/* 6. Extra Pergament-Box */
 .pergament-box {
   background-color: #f4eacc !important;
   background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
