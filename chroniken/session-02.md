@@ -5,7 +5,7 @@ parent: chroniken
 nav_order: -2
 ---
 
-# 📜 Sitzung 02: Die erste Reise der Fünf
+# 📜 Session 02: Die erste Reise der Fünf
 
 <p markdown="1">
 **Datum:** 06. August 2026 | **Ort:** Gullykin
