@@ -1,17 +1,17 @@
-/* 1. Globaler Hintergrund für die gesamte Seite */
+/*  Globaler Hintergrund für die gesamte Seite */
 html, body, .main, .main-content-wrap, .main-content, .page-content {
   background-color: #f4eacc !important;
   background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
   color: #2b1e16 !important;
 }
 
-/* 2. Linke Seitenleiste im Pergament-Look */
+/*  Linke Seitenleiste im Pergament-Look */
 .side-bar {
   background-color: rgba(235, 223, 190, 0.95) !important;
   border-right: 2px solid #a3865c !important;
 }
 
-/* 3. Breitenanpassung (200px) für Seitenleiste & Header */
+/*  Breitenanpassung (200px) für Seitenleiste & Header */
 .side-bar,
 .site-header,
 .search {
@@ -20,11 +20,11 @@ html, body, .main, .main-content-wrap, .main-content, .page-content {
 
 @media (min-width: 50rem) {
   .main {
-    margin-left: 200px !important;
+    margin-left: 220px !important;
   }
 }
 
-/* 4. Titel & Logo sauber auf 200px einpassen */
+/*  Titel & Logo sauber auf 200px einpassen */
 .site-title {
   width: 100% !important;
   padding-right: 1rem !important;
@@ -32,13 +32,13 @@ html, body, .main, .main-content-wrap, .main-content, .page-content {
   word-wrap: break-word !important;
 }
 
-/* 5. Suchleiste anpassen */
+/*  Suchleiste anpassen */
 .search, .search-input {
   background-color: transparent !important;
   max-width: 100% !important;
 }
 
-/* 6. Extra Pergament-Box für Sitzungs-Zusammenfassungen */
+/*  Extra Pergament-Box für Sitzungs-Zusammenfassungen */
 .pergament-box {
   background-color: #f4eacc !important;
   background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
