@@ -1,64 +1,24 @@
-/* 1. Globaler Hintergrund für die gesamte Seite */
-html, body, .main, .main-content-wrap, .main-content, .page-content {
+/* 1. Globaler Pergament-Hintergrund */
+html,
+body,
+.main,
+.main-content-wrap,
+.main-content,
+.page-content {
   background-color: #f4eacc !important;
   background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
   color: #2b1e16 !important;
 }
 
-/* 2. Seitenleiste im Pergament-Look */
+
+/* 2. Seitenleiste */
 .side-bar {
   background-color: rgba(235, 223, 190, 0.95) !important;
   border-right: 2px solid #a3865c !important;
 }
 
-/* 3. Seitenleiste schmaler machen & gesamtes Layout nach links */
-@media (min-width: 50rem) {
-  .page-wrap {
-    grid-template-columns: 200px minmax(0, 1fr) !important;
-    max-width: none !important;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-    position: relative !important;
-    left: -200px !important;
-  }
 
-  .side-bar {
-    width: 200px !important;
-  }
-
-  .main {
-    margin-left: 450px !important;
-}
-
-.site-header {
-    margin-left: 450px !important;
-    width: calc(100% - 450px) !important;
-}
-
-
-/* 4. Titel & Suche optisch einpassen */
-.site-title {
-  font-size: 1.05rem !important;
-  word-wrap: break-word !important;
-}
-
-.search, .search-input {
-  background-color: transparent !important;
-}
-
-/* 5. Pergament-Box */
-.pergament-box {
-  background-color: #f4eacc !important;
-  background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
-  border: 2px solid #8c2a1c !important;
-  border-radius: 6px !important;
-  padding: 20px !important;
-  margin: 20px 0 !important;
-  box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2) !important;
-  color: #2b1e16 !important;
-}
-
-/* 6. Layout: Sidebar links, Hauptbereich mit Abstand */
+/* 3. Layout auf großen Bildschirmen */
 @media (min-width: 50rem) {
 
   .side-bar {
@@ -80,4 +40,30 @@ html, body, .main, .main-content-wrap, .main-content, .page-content {
     margin-left: 400px !important;
     width: calc(100% - 400px) !important;
   }
+
+}
+
+
+/* 4. Titel & Suche */
+.site-title {
+  font-size: 1.05rem !important;
+  word-wrap: break-word !important;
+}
+
+.search,
+.search-input {
+  background-color: transparent !important;
+}
+
+
+/* 5. Pergament-Box */
+.pergament-box {
+  background-color: #f4eacc !important;
+  background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
+  border: 2px solid #8c2a1c !important;
+  border-radius: 6px !important;
+  padding: 20px !important;
+  margin: 20px 0 !important;
+  box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2) !important;
+  color: #2b1e16 !important;
 }
