@@ -60,10 +60,3 @@ Das Chronikon bleibt an dieser Stelle offen. Die Tinte trocknet, während die F�
 
 ---
 
-## 🗝️ Wichtige Notizen & Errungenschaften
-
-* **Gefundene Gegenstände:** Ein alter Siegelring mit dem Symbol der Aschenen Hand.
-* **Getroffene Entscheidungen:** Die Gruppe hat beschlossen, dem Dorfschulzen vorerst nichts von dem Geheimgang zu erzählen.
-* **Neue Erkenntnisse:** Die Ruinen erstrecken sich weiter Richtung Durlags Turm.
-
-
