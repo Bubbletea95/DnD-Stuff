@@ -29,6 +29,7 @@ html, body, .main, .main-content-wrap, .main-content, .page-content {
     left: 0 !important;
     top: 0 !important;
     height: 100vh !important;
+    z-index: 1000 !important;
   }
 
   html body .main {
@@ -38,6 +39,8 @@ html, body, .main, .main-content-wrap, .main-content, .page-content {
     margin: 0 !important;
     margin-left: 260px !important;
     left: 0 !important;
+    position: relative !important;
+    z-index: 1 !important;
   }
 
   html body .main-content-wrap,
