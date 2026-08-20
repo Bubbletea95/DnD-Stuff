@@ -9,15 +9,13 @@ nav_order: -3
 
 <div align="center">
 
-## Datum: 19.August.2026
-## Ort: Gullykin
+**Datum:** 19. August 2026 | **Ort:** Gullykin
 
 </div>
 
 ---
 <div class="pergament-box" markdown="1">
-  
-## Chronik
+
 Aufgezeichnet von den Hütern der Zeitlinien.
 Kapitelfragment VII: Der Schwur am Schwarzen Brett
 Das Tageslicht brachte keine Ruhe, sondern Entscheidungen. Vor der Wandtafel der Taverne traten die Fünf zusammen, um über die Verteilung von Schicksal und Sold zu beratschlagen. Nach langem Abwägen und feurigen Diskussionen webten sie eine Route, die mehrere Pfade vereinen sollte: Die Säuberung des Tavernenkellers, die Suche nach einem verlorenen Erbstück, eine gefahrvolle Expedition zu Durlags Turm sowie die Jagd nach einem legendären Artefakt.
