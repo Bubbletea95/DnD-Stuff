@@ -8,14 +8,14 @@ nav_order: -1
 # 📜 Session 01: Das Erwachen der Fünf
 
 <div align="center">
-### Datum: 27.Juli.2026
-### Ort: Fletching und Stanfalls Wandernden Karneval der Kuriositäten
+## Datum: 27.Juli.2026
+## Ort: Fletching und Stanfalls Wandernden Karneval der Kuriositäten
 </div>
 
 ---
 <div class="pergament-box">
 
-### 📜 Chronik
+## 📜 Chronik
 
 Aufgezeichnet von den Hütern der Zeitlinien.
 Kapitelfragment I: Die Verkettung der Schatten
