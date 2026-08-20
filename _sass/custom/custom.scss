@@ -1,20 +1,37 @@
-/* 1. System-Variablen überschreiben (muss ganz oben stehen!) */
-$sidebar-width: 200px;
-
-/* 2. Globaler Hintergrund für die gesamte Seite */
+/* 1. Globaler Hintergrund für die gesamte Seite */
 html, body, .main, .main-content-wrap, .main-content, .page-content {
   background-color: #f4eacc !important;
   background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
   color: #2b1e16 !important;
 }
 
-/* 3. Seitenleiste im Pergament-Look */
+/* 2. Seitenleiste im Pergament-Look */
 .side-bar {
   background-color: rgba(235, 223, 190, 0.95) !important;
   border-right: 2px solid #a3865c !important;
 }
 
-/* 4. Titel & Suche optisch anpassen */
+/* 3. Seitenleiste schmaler machen & Layout nach links rücken */
+@media (min-width: 50rem) {
+  /* Passt das Layout-Raster an (200px Seitenleiste + Rest Inhalt) */
+  .page-wrap {
+    grid-template-columns: 200px minmax(0, 1fr) !important;
+  }
+
+  .side-bar {
+    width: 200px !important;
+  }
+
+  .main {
+    margin-left: 200px !important;
+  }
+
+  .site-header {
+    width: calc(100% - 200px) !important;
+  }
+}
+
+/* 4. Titel & Suche optisch einpassen */
 .site-title {
   font-size: 1.05rem !important;
   word-wrap: break-word !important;
