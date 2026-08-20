@@ -9,8 +9,7 @@ nav_order: -2
 
 <div align="center">
 
-## Datum: 06.August.2026
-## Ort: Gullykin
+**Datum:** 06.August 2026 | **Ort:** Gullykin
 
 </div>
 
