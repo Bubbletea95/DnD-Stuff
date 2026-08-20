@@ -7,4 +7,3 @@ remote_theme: just-the-docs/just-the-docs
 # Suchfunktion aktivieren
 search_enabled: true
 
-nav_fold: false
