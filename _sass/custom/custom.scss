@@ -1,62 +1,48 @@
-/* 1. Globaler Pergament-Hintergrund */
-html,
-body,
-.main,
-.main-content-wrap,
-.main-content,
-.page-content {
+/* 1. Globaler Hintergrund & Farbschema */
+html, body, .main, .main-content-wrap, .main-content, .page-content {
   background-color: #f4eacc !important;
   background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
   color: #2b1e16 !important;
 }
 
-
-/* 2. Seitenleiste */
+/* 2. Seitenleiste im Pergament-Look */
 .side-bar {
   background-color: rgba(235, 223, 190, 0.95) !important;
   border-right: 2px solid #a3865c !important;
 }
 
-
-/* 3. Layout auf großen Bildschirmen */
+/* 3. Seitenleisten-Breite korrigieren & Hauptbereich direkt andocken */
 @media (min-width: 50rem) {
+  :root {
+    --nav-width: 200px !important;
+  }
 
   .side-bar {
-    left: 0 !important;
     width: 200px !important;
+    min-width: 200px !important;
   }
 
-  .main {
-    margin-left: 400px !important;
-    margin-right: 0 !important;
-  }
-
-  .main-content {
-    margin-left: 0 !important;
-    max-width: 960px !important;
-  }
-
+  /* Schiebt den gesamten Hauptbereich passgenau nach links */
+  .main-main,
+  .main,
   .site-header {
-    margin-left: 400px !important;
-    width: calc(100% - 400px) !important;
+    left: 200px !important;
+    margin-left: 0 !important;
+    width: calc(100% - 200px) !important;
   }
-
 }
 
-
-/* 4. Titel & Suche */
+/* 4. Titel & Suche optisch einpassen */
 .site-title {
   font-size: 1.05rem !important;
   word-wrap: break-word !important;
 }
 
-.search,
-.search-input {
+.search, .search-input {
   background-color: transparent !important;
 }
 
-
-/* 5. Pergament-Box */
+/* 5. Extra Pergament-Box */
 .pergament-box {
   background-color: #f4eacc !important;
   background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
