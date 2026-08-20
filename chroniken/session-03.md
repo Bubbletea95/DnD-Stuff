@@ -1,11 +1,11 @@
 ---
 layout: default
 title: "Session 03: Gullykin und seine Geheimnisse"
-parent: 📜 Chroniken
+parent: chroniken
 nav_order: -3
 ---
 
-# 📜 Sitzung 03: Die Reise der Fünf
+# 📜 Session 03: Die Reise der Fünf
 
 <div align="center">
 
