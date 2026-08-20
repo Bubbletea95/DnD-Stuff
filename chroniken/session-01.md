@@ -13,7 +13,7 @@ nav_order: -1
 </div>
 
 ---
-<div class="pergament-box">
+<div class="pergament-box" markdown="1">
 
 ## 📜 Chronik
 
