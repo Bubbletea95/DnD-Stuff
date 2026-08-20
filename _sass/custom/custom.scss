@@ -1,0 +1,29 @@
+/* 1. Globaler Hintergrund für die gesamte Seite */
+html, body, .main, .main-content-wrap, .main-content, .page-content {
+  background-color: #f4eacc !important;
+  background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
+  color: #2b1e16 !important;
+}
+
+/* 2. Linke Seitenleiste im Pergament-Look */
+.side-bar {
+  background-color: rgba(235, 223, 190, 0.95) !important;
+  border-right: 2px solid #a3865c !important;
+}
+
+/* 3. Suchleiste oben transparent machen */
+.search, .search-input {
+  background-color: transparent !important;
+}
+
+/* 4. Extra Pergament-Box für Sitzungs-Zusammenfassungen */
+.pergament-box {
+  background-color: #f4eacc !important;
+  background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
+  border: 2px solid #8c2a1c !important;
+  border-radius: 6px !important;
+  padding: 20px !important;
+  margin: 20px 0 !important;
+  box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2) !important;
+  color: #2b1e16 !important;
+}
