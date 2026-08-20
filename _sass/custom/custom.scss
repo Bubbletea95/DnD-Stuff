@@ -27,13 +27,14 @@ html, body, .main, .main-content-wrap, .main-content, .page-content {
   }
 
   .main {
-    margin-left: 200px !important;
-  }
-
-  .site-header {
-    width: calc(100% - 200px) !important;
-  }
+    margin-left: 450px !important;
 }
+
+.site-header {
+    margin-left: 450px !important;
+    width: calc(100% - 450px) !important;
+}
+
 
 /* 4. Titel & Suche optisch einpassen */
 .site-title {
