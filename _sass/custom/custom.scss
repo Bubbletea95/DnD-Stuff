@@ -11,33 +11,34 @@ html, body, .main, .main-content-wrap, .main-content, .page-content {
   border-right: 2px solid #a3865c !important;
 }
 
-/* 3. Seitenleisten-Breite korrigieren & Hauptbereich direkt andocken */
+/* 3. Saubere Breitenanpassung & Links wieder sichtbar machen */
 @media (min-width: 50rem) {
-  :root {
-    --nav-width: 200px !important;
-  }
-
   .side-bar {
-    width: 200px !important;
-    min-width: 200px !important;
+    width: 220px !important;
   }
 
-  /* Schiebt den gesamten Hauptbereich passgenau nach links */
   .main-main,
   .main,
   .site-header {
-    left: 200px !important;
-    margin-left: 0 !important;
-    width: calc(100% - 200px) !important;
+    margin-left: 220px !important;
+    left: 0 !important;
+    width: auto !important;
   }
 }
 
-/* 4. Titel & Suche optisch einpassen */
+/* Innenabstände der Links anpassen, damit nichts abgeschnitten wird */
+.nav-list-link, 
 .site-title {
-  font-size: 1.05rem !important;
+  padding-left: 1rem !important;
+  padding-right: 0.5rem !important;
   word-wrap: break-word !important;
 }
 
+.site-title {
+  font-size: 1.05rem !important;
+}
+
+/* 4. Suche optisch einpassen */
 .search, .search-input {
   background-color: transparent !important;
 }
