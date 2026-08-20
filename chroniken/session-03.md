@@ -49,9 +49,11 @@ Das Chronikum bleibt an dieser Stelle offen. Die Tinte trocknet, während die Na
 
 ## 🗝️ Wichtige Notizen & Errungenschaften
 
-* **Gefundene Gegenstände:** Ein alter Siegelring mit dem Symbol der Aschenen Hand.
-* **Getroffene Entscheidungen:** Die Gruppe hat beschlossen, dem Dorfschulzen vorerst nichts von dem Geheimgang zu erzählen.
-* **Neue Erkenntnisse:** Die Ruinen erstrecken sich weiter Richtung Durlags Turm.
+* **Gefundene/gekaufte Gegenstände:**
+  Ein Kompass, der einem zu dem führt, das man am meisten begehrt (im Besitz von Ikarus)
+  Eine Taschenuhr (im Besitz von Fiona)
+  diverse Phiolen
+  eine Karte von den Ruinen
 
 ---
 
