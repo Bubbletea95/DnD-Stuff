@@ -12,28 +12,25 @@ description: "Startseite der Chroniken der Schwertküste"
     
     <h3 style="margin-top: 0;">📜 Chroniken</h3>
     <ul style="list-style: none; padding-left: 0; line-height: 1.8;">
-      <li>📖 <a href="./chroniken/index.md"><b>Alle Recaps</b></a></li>
-      <li>👉 <a href="./chroniken/sitzung-04.md">Sitzung 04 (Neu)</a></li>
-      <li>👉 <a href="./chroniken/sitzung-03.md">Sitzung 03</a></li>
-      <li>👉 <a href="./chroniken/sitzung-02.md">Sitzung 02</a></li>
-      <li>👉 <a href="./chroniken/sitzung-01.md">Sitzung 01</a></li>
+      <li>📖 <a href="./chroniken/"><b>Alle Recaps</b></a></li>
+      
+      <!-- AUTOMATISCHE SCHLEIFE (NEUESTE ZUERST) -->
+      {% assign recaps = site.html_pages | where_exp: "item", "item.path contains 'chroniken/'" | sort: "order" | reverse %}
+      {% for recap in recaps %}
+        {% if recap.title and recap.name != "index.md" %}
+          <li>👉 <a href="{{ recap.url | relative_url }}">{{ recap.title }}</a></li>
+        {% endif %}
+      {% endfor %}
     </ul>
 
     <hr style="border: 0; border-top: 1px solid #ccc; margin: 15px 0;">
 
     <h3>🗝️ Archiv</h3>
     <ul style="list-style: none; padding-left: 0; line-height: 1.8;">
-      <li>🗺️ <a href="./orte/index.md">Orte & Schauplätze</a></li>
-      <li>👤 <a href="./charaktere/index.md">Personen & Helden</a></li>
-      <li>📜 <a href="./archiv/dokumente.md">Briefe & Fundstücke</a></li>
-      <li>🧩 <a href="./archiv/raetsel.md">Aufgedeckte Rätsel</a></li>
+      <li>🗺️ <a href="./orte/">Orte & Schauplätze</a></li>
+      <li>👤 <a href="./charaktere/">Personen & Helden</a></li>
+      <li>📜 <a href="./archiv/">Briefe & Fundstücke</a></li>
     </ul>
-
-    <hr style="border: 0; border-top: 1px solid #ccc; margin: 15px 0;">
-
-    <div align="center">
-      <img src="https://img.shields.io/badge/Status-Aktiv-emerald?style=flat-square" alt="Status">
-    </div>
 
   </aside>
 
