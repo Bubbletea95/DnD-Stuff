@@ -37,8 +37,4 @@ Beim Verlassen des Stollens stießen die Helden auf ein altes Rätsel, das in di
 * **Getroffene Entscheidungen:** Die Gruppe hat beschlossen, dem Dorfschulzen vorerst nichts von dem Geheimgang zu erzählen.
 * **Neue Erkenntnisse:** Die Ruinen erstrecken sich weiter Richtung Durlags Turm.
 
----
 
-## 🧭 Navigation
-
-[📜 Zur Chronik-Übersicht](../index.md) | [Nächste Session: Session 02 →](./session-02.md)
