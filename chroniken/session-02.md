@@ -9,8 +9,8 @@ nav_order: -2
 
 <div align="center">
 
-###Datum: 06.August.2026
-###Ort: Gullykin
+## Datum: 06.August.2026
+## Ort: Gullykin
 
 </div>
 
@@ -18,7 +18,7 @@ nav_order: -2
 
 <div class="pergament-box">
 
-### 📜 Chronik
+## 📜 Chronik
 
 Aufgezeichnet von den Hütern der Zeitlinien.
 Kapitelfragment V: Der Wunderkarren und das süße Schweigen
