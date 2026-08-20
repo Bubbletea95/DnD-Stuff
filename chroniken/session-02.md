@@ -17,8 +17,6 @@ nav_order: -2
 
 <div class="pergament-box" markdown="1">
 
-## 📜 Chronik
-
 Aufgezeichnet von den Hütern der Zeitlinien.
 Kapitelfragment V: Der Wunderkarren und das süße Schweigen
 Die Flucht aus den Aschen des niedergebrannten Raritätenzelts führte die Fünf auf die Straße nach Gullykin. Unter dem brennenden Mal der Sekte getrieben, durchkreuzte der wunderliche Händler Barnaby Bammel ihren Weg. Trotz arkaner Schutzschilde um seinen rollenden Ausstellungsraum – die selbst vorsätzliche Angriffe und unsichtbare Wurfgeschosse mühelos abwehrten – feilschte die Gruppe um seltsame Güter: Den Dolch des gewissenhaften Blutes sowie zweierlei Steine der Unsichtbarkeit. Auch nach mehrfachen Versuchen schaffte es der Händler jedoch nicht, ihnen weitere Schmuckstücke seiner äußerst zahlreichen Sammlung anzudrehen.
