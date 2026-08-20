@@ -7,11 +7,9 @@ nav_order: -2
 
 # 📜 Sitzung 02: Die erste Reise der Fünf
 
-<div align="center">
-
-**Datum:** 06.August 2026 | **Ort:** Gullykin
-
-</div>
+<p markdown="1">
+**Datum:** 06. August 2026 | **Ort:** Gullykin
+</p>
 
 ---
 
