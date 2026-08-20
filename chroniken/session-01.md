@@ -7,9 +7,9 @@ nav_order: -1
 
 # 📜 Session 01: Das Erwachen der Fünf
 
-<div align="center">
-**Datum:** 27.Juli 2026 | **Ort:** Gullykin
-</div>
+<p markdown="1">
+**Datum:** 27. Juli 2026 | **Ort:** Fletching und Stanfalls Wandernden Karneval der Kuriositäten
+</p>
 
 ---
 <div class="pergament-box" markdown="1">
