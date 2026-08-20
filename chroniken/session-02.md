@@ -2,6 +2,7 @@
 layout: default
 title: "Session 02: Die erste Reise der Fünf"
 parent: Chroniken
+nav_title: "Session 02"
 nav_order: -2
 ---
 
