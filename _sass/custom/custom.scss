@@ -11,38 +11,26 @@ html, body, .main, .main-content-wrap, .main-content, .page-content {
   border-right: 2px solid #a3865c !important;
 }
 
-/* 3. Radikaler Layout-Fix für Vollbild & große Monitore */
-@media (min-width: 50rem) {
-  html body .page-wrap {
-    display: flex !important;
-    max-width: 100% !important;
-    width: 100% !important;
-  }
+/* 3. Seitenleisten-Inhalte zentrieren & Einrückung zurücksetzen */
+.nav-category,
+.nav-list,
+.nav-list-item,
+.nav-list-link,
+.site-header,
+.site-title {
+  transform: none !important;
+  margin-left: 0 !important;
+  left: 0 !important;
+}
 
-  html body .side-bar {
-    position: relative !important;
-    flex: 0 0 260px !important;
-    width: 260px !important;
-    min-width: 260px !important;
-    margin: 0 !important;
-    left: 0 !important;
-  }
+/* Platzierung des Textes innerhalb der Seitenleiste korrigieren */
+.nav-list-link {
+  padding-left: 1.5rem !important;
+  padding-right: 0.5rem !important;
+}
 
-  html body .main {
-    flex: 1 1 auto !important;
-    max-width: none !important;
-    width: calc(100% - 260px) !important;
-    margin: 0 !important;
-    left: 0 !important;
-  }
-
-  html body .main-content-wrap,
-  html body .main-content,
-  html body .site-header {
-    max-width: none !important;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-  }
+.nav-list-item .nav-list .nav-list-link {
+  padding-left: 2.5rem !important; /* Etwas mehr Einrückung für Session 01, 02... */
 }
 
 /* 4. Suche optisch anpassen */
