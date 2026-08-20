@@ -39,6 +39,3 @@ Beim Verlassen des Stollens stießen die Helden auf ein altes Rätsel, das in di
 
 ---
 
-## 🧭 Navigation
-
-[← Vorherige Session: Session 02](./session-02.md) | [📜 Zur Chronik-Übersicht](../index.md) | [Nächste Session: Session 04 →](./Session-04.md)
