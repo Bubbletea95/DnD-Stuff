@@ -1,44 +1,48 @@
-/*  Globaler Hintergrund für die gesamte Seite */
+/* 1. Globaler Hintergrund & Schriften */
 html, body, .main, .main-content-wrap, .main-content, .page-content {
   background-color: #f4eacc !important;
   background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
   color: #2b1e16 !important;
 }
 
-/*  Linke Seitenleiste im Pergament-Look */
+/* 2. Seitenleiste Styling */
 .side-bar {
   background-color: rgba(235, 223, 190, 0.95) !important;
   border-right: 2px solid #a3865c !important;
 }
 
-/*  Breitenanpassung (200px) für Seitenleiste & Header */
-.side-bar,
-.site-header,
-.search {
-  width: 200px !important;
-}
+/* 3. Saubere Breitenanpassung der Seitenleiste (ohne das Grid zu brechen) */
+$sidebar-width: 200px;
 
-@media (min-width: 50rem) {
-  .main {
-    margin-left: 200px !important;
+.side-bar {
+  @media (min-width: 50rem) {
+    width: $sidebar-width !important;
   }
 }
 
-/*  Titel & Logo sauber auf 200px einpassen */
+.main {
+  @media (min-width: 50rem) {
+    margin-left: $sidebar-width !important;
+  }
+}
+
+.site-header {
+  @media (min-width: 50rem) {
+    width: calc(100% - #{$sidebar-width}) !important;
+  }
+}
+
+/* 4. Titel & Suche anpassen */
 .site-title {
-  width: 100% !important;
-  padding-right: 1rem !important;
-  font-size: 1.1rem !important; /* Verkleinert die Schrift leicht, damit nichts übersteht */
+  font-size: 1.1rem !important;
   word-wrap: break-word !important;
 }
 
-/*  Suchleiste anpassen */
 .search, .search-input {
   background-color: transparent !important;
-  max-width: 100% !important;
 }
 
-/*  Extra Pergament-Box für Sitzungs-Zusammenfassungen */
+/* 5. Extra Pergament-Box */
 .pergament-box {
   background-color: #f4eacc !important;
   background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
