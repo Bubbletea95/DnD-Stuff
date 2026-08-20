@@ -30,6 +30,7 @@ Unbemerkt vom Trubel schlichen sich die Fünf unterdessen in die städtische Bib
 Die Nacht verbrachten die Gejagten im Gasthaus. Der Wirt quartierte die Schicksalsgemeinschaft in ein Fünf-Mann-Zimmer ein, welches durch einen arkanen Stille-Zauber komplett von der Außenwelt isoliert war – eine Schutzmaßnahme, deren strikte Einhaltung der Gastwirt wiederholt und mit Nachdruck betonte.
 
 **Der Stand der Chronik (Gegenwart)**
+
 Gestärkt durch ein reichhaltiges Frühstück treten die Fünf aus dem schweigenden Zimmer zurück in das Tageslicht von Gullykin.
 Sie besitzen das Amulett aus der Bibliothek, tragen die Artefakte des Wanderhändlers bei sich und führen die Beweise gegen das Haus Peregrin mit sich. Doch die drängenden Fragen bleiben im Raum stehen: Welches Geheimnis birgt das vielgepriesene schwarze Brett? Welche Wirkung entfalten die aufgedrängten Kekse? Und ist das schweigende Zimmer eine Zuflucht – oder ein vergoldeter Käfig?
 Die Tinte trocknet, während die Fünf ihren nächsten Schritt auf dem Schachbrett der Aschenen Hand planen...
