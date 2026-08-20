@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Chroniken der Schwertküste
+title: Home
+nav_order: 1
+description: "Startseite der Chroniken der Schwertküste"
 ---
 
 <div style="display: flex; gap: 25px; align-items: flex-start; flex-wrap: wrap;">
