@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 📜 Chroniken
+title: chroniken
 nav_order: 2
 has_children: true
 ---
