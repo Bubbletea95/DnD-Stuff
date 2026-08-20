@@ -2,10 +2,10 @@
 layout: default
 title: "Session 01: Das Erwachen der Fünf"
 parent: 📜 Chroniken
-nav_order: 1
+nav_order: -1
 ---
 
-# 📜 Sitzung 01: Das Erwachen der Fünf
+# 📜 Session 01: Das Erwachen der Fünf
 
 <div align="center">
 
