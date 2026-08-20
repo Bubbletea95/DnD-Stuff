@@ -34,7 +34,6 @@ description: "Startseite der Chroniken der Schwertküste"
 
   </aside>
 
-
   <!-- RECHTS: HAUPTINHALT -->
   <main style="flex: 3; min-width: 300px;">
 
@@ -53,7 +52,7 @@ description: "Startseite der Chroniken der Schwertküste"
       <li><b><a href="./charaktere/charakter-2.md">Quintherra</a></b> — Variant Aasimar / Bard</li>
       <li><b><a href="./charaktere/charakter-3.md">Fiona</a></b> — Human / Ranger</li>
       <li><b><a href="./charaktere/charakter-4.md">Ikarus</a></b> — Human / Wizard</li>
-      <li><b><a href="./charaktere/charakter-5.md">Zricha</a></b> — Asimar / Cleric</li>
+      <li><b><a href="./charaktere/charakter-5.md">Zricha</a></b> — Aasimar / Cleric</li>
     </ul>
 
     <h2>📜 Letzter Bericht</h2>
