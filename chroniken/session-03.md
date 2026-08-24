@@ -25,12 +25,12 @@ Bevor sie jedoch in die Tiefe stiegen, wandten sie sich einer Tat der Barmherzig
 **Kapitelfragment VIII: Pulverdampf und die Schatten im Keller**
 
 Der Abstieg in das Gewölbe der Taverne offenbarte eine feuchte, fremdartige Welt. Riesenpilze – die kostbare Essenz des örtlichen Gebräus – ragten aus den Wänden, wovon die Gefährten Proben sicherten. Doch neben einem zerborstenen Braufass stießen sie auf ein alarmierendes Zeichen: Deutliche Fußspuren von hochgewachsenen Menschen zeichneten sich im Staub ab – eine scharfe Anomalie in einer Siedlung, die nur von Halblingen und Zwergen bewohnt wird.
-Den Spuren folgend gelangten sie an eine eingestürzte Mauer, die den Weg versperrte. Mit kühnem Einfallsreichtum schleuderte Ikarus ein Fass mittels Lasso an die Engstelle, welches Kyros durch gezielten arkanen Beschuss in einer gewaltigen Explosion entzündete und das Hindernis zermalmte.
+Den Spuren folgend gelangten sie an eine eingestürzte Mauer, die den Weg versperrte. Mit kühnem Einfallsreichtum schleuderte Ikarus ein Fass mittels Lasso an die Engstelle, welches Kyroz durch gezielten arkanen Beschuss in einer gewaltigen Explosion entzündete und das Hindernis zermalmte.
 Dahinter traten ihnen drei Gestalten der Aschenen Hand entgegen. Mit hämischer Gelassenheit stellten die Kultisten ein Ultimatum: Bedingungslose Kapitulation oder die totale Auslöschung Gullykins durch eine hochinstabile Phiole mit Sprengstoff. Während zwei der Schergen im Labyrinth der Tunnel entwischten, überwältigten die Gefährten den verbliebenen Kultisten und überantworteten ihn dem städtischen Kerker.
 
 **Kapitelfragment IX: Das Brandmal der Vergeltung**
 
-Was im Kerker folgte, war ein finsteres Tête-à-Tête der Grausamkeit. In einem Zyklus aus repetitiver Heilung und erneuter Brechung – gezeichnet von einer zertrümmerten Nase und einem ausgekugelten Bein – befriedigten sie ihre Mordlust. Kyros setzte dem Spaß ein demütigendes Siegel auf, indem er die Worte „Kyros was here“ tief in das Fleisch des Gefolterten brannte.
+Was im Kerker folgte, war ein finsteres Tête-à-Tête der Grausamkeit. In einem Zyklus aus repetitiver Heilung und erneuter Brechung – gezeichnet von einer zertrümmerten Nase und einem ausgekugelten Bein – befriedigten sie ihre Mordlust. Kyroz setzte dem Spaß ein demütigendes Siegel auf, indem er die Worte „Kyroz was here“ tief in das Fleisch des Gefolterten brannte.
 Ikarus eignete sich den erbeuteten Mantel des Kultisten an, in dessen Tasche nicht weniger als zwanzig explosive Phiolen befanden. Um das Symbol der Sorte zu tilgen, ordnete er beim örtlichen Schneider an, das Wappen der Aschenen Hand mit dem Motiv einer brennenden Feder zu übersticken. Nach einer kurzen Rast und dem Erwerb neuer Güter beim Schmied kehrten die Gefährten gerüstet in die dunklen Kanäle zurück.
 
 **Kapitelfragment X: Das schweigende Rätsel der Ruinen**
@@ -41,7 +41,7 @@ Als sich die Illusionen auflösten und der Raum wieder seine wahre Gestalt offen
 
 **Der Stand der Chronik (Gegenwart)**
 
-Die Ruinen unter Gullykin haben einen Teil ihrer Geheimnisse preisgegeben, doch die Verstrickung des Hauses Peregrin reicht tiefer, als die Fünf geahnt hatten. Mit dem Mantel der Sprengstoffe an Ikarus' Schultern, dem begehrten Kompass in seinen Händen und einer Kohlenzange in Kyros Rucksack stehen die Gefährten vor dem nächsten Schritt ihrer Reise.
+Die Ruinen unter Gullykin haben einen Teil ihrer Geheimnisse preisgegeben, doch die Verstrickung des Hauses Peregrin reicht tiefer, als die Fünf geahnt hatten. Mit dem Mantel der Sprengstoffe an Ikarus' Schultern, dem begehrten Kompass in seinen Händen und einer Kohlenzange in Kyroz Rucksack stehen die Gefährten vor dem nächsten Schritt ihrer Reise.
 Die weitere Route der Fünf ist fraglich – bestätigt sind nur die unerfüllten Aufträge in ihren Taschen.
 Das Chronikum bleibt an dieser Stelle offen. Die Tinte trocknet, während die Nadel des Kompasses ihr erstes Ziel sucht...
 
