@@ -51,10 +51,12 @@ Das Chronikum bleibt an dieser Stelle offen. Die Tinte trocknet, während die Na
 ## 🗝️ Wichtige Notizen & Errungenschaften
 
 * **Gefundene/gekaufte Gegenstände:**
-  Ein Kompass, der einem zu dem führt, das man am meisten begehrt (im Besitz von Ikarus)
-  Eine Taschenuhr (im Besitz von Fiona)
+  Ein Kompass, der einem zu dem führt, das man am meisten begehrt (Ikarus),
+  ein Mantel - Bag of Holding (Ikarus),
+  eine Taschenuhr (Fiona),
+  eine Kohlenzange (Kyroz),
   diverse Phiolen
-  eine Karte von den Ruinen
+  und eine Karte von den Ruinen
 
 ---
 
