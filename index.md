@@ -18,7 +18,7 @@ Die Gruppe befindet sich derzeit in **Gullykin** und untersucht die Spuren rund 
 
 ## ⚔️ Die Helden
 
-- **[Kyros]:** Tiefling / Sorcerer
+- **[Kyroz]:** Tiefling / Sorcerer
 - **[Quintherra]:** Variant Aasimar / Bard
 - **[Fiona]:** Human / Ranger
 - **[Ikarus]:** Human / Wizard
