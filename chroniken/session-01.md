@@ -21,7 +21,7 @@ Aufgezeichnet von den Hütern der Zeitlinien.
 
 Es steht geschrieben, dass kein Schicksal von Ungefähr zusammenläuft. Fünf Seelen, gezeichnet von den dunklen Umtrieben einer im Verborgenen agierenden Sekte – bekannt als die Aschene Hand –, wandelten auf getrennten Pfaden, bis der Schicksalsfaden sie auf dem unruhigen Terrain des Karnevals der Kuriositäten zusammenknüpfte.
 Unter den Blicken des arglosen Zirkusdirektors <u>Frederic Stanfall</u> schien das Areal ein Ort des Ausflugs und der Gaukler. Doch unter den hunderten Lichtern und dem Geruch von Zuckerwatte schwelte die Gefahr:
-Die arkane Brandmarke des Tieflings Kyros gerieten in arkan-chemische Resonanz.
+Die arkane Brandmarke des Tieflings Kyroz gerieten in arkan-chemische Resonanz.
 Die verhüllte Engelsgestalt Zricha,  spürte das Pochen ihres dämpfenden Talismans.
 Die Jägerin Fiona trat an den Tross heran, stets schützend vor dem wundersamen Sternenwesen Stella – ahnungslos, welch gierige Blicke die Sekte auf diese Astral-Komponente geworfen hatte.
 Der beurlaubte magische Henker Ikarus folgte den verwaschenen Spuren einer Krongut-Verschwörung.
@@ -32,7 +32,7 @@ Die Fünf trafen nach und nach aufeinander, versorgten sich mit Informationen un
 
 **Kapitelfragment II: Die Schale der fünf Opfer**
 
-Am Rande des Chaos stießen die Fünf auf den Stand eines ominösen Raritätenhändlers namens <u>Dalterian</u>. Das Zelt war von einer pulsierenden, violetten Schutzbarriere umschlungen – versiegelt durch dieselbe Magie, die Kyros’ Haut und Zrichas Fesseln brannte und auch in Verbindung des Sternenwesens Stella stand.
+Am Rande des Chaos stießen die Fünf auf den Stand eines ominösen Raritätenhändlers namens <u>Dalterian</u>. Das Zelt war von einer pulsierenden, violetten Schutzbarriere umschlungen – versiegelt durch dieselbe Magie, die Kyroz’ Haut und Zrichas Fesseln brannte und auch in Verbindung des Sternenwesens Stella stand.
 Dahinter erwartete sie keine stumme Kammer, sondern das hämische Antlitz des Spiegels der Täuschung. Eine spöttische, verdorbene Präsenz im Glas verspottete ihre Herkunft und wies sie kichernd auf ihre Dummheit und eine schwere Eichentür im Boden hin.
 Um die Riegel der Falltür zu lösen, verlangte das Schloss den Tribut aller Fünf. Ein reimendes Rätsel forderte das, was sie im Innersten ausmachte.
 
@@ -47,7 +47,7 @@ Ehe die Gruppe reagieren konnte, zersprang der Spiegel in tausend silbrige Staub
 
 Der Abstieg in das Gewölbe unter der Falltür offenbarte ein Schreckenskabinett der arkanen Logistik. Ein Operations- und Überwachungsraum der Sekte.
 Dort fanden die Ermittler Aufzeichnungen über grausame Experimente an Waisen und Gefangenen. Doch inmitten der opferreichen Zahlenreihen stachen die Wunden von drei der Gruppe hervor:
-Kyros’ als verunfalltes Schuppen-Experiment.
+Kyroz’ als verunfalltes Schuppen-Experiment.
 Zrichas Amputation und die Jagd auf ihre verbliebene Göttlichkeit.
 Die geplante Beschaffung von Stella als astrales Ersatz-Gefäß.
 Der schwerste Schlag jedoch traf Quintherra: Unter den Finanzierungszeilen und der Autorisierung all dieser Schrecken prangte in stolzem Siegelwachs das Wappen des Hauses <u>Peregrin</u> – gezeichnet von ihrem eigenen Schwiegervater, <u>Lord Valerius Peregrin</u>.
