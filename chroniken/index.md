@@ -7,4 +7,4 @@ has_children: true
 
 # 📜 Chroniken & Session-Recaps
 
-Hier findest du alle Reiseberichte unserer Abenteuer an der Schwertküste. Wähle eine Sitzung links aus der Seitenleiste aus.
+Hier lagern die Chroniken unserer Pfade durch die Schwertküste – gewoben aus Schatten, Blut und uralter Magie. Wähle eine Chronik, um das Siegel zu brechen und die Erinnerungen der Vergangenen neu zu entfachen.
