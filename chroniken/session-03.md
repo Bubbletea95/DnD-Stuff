@@ -19,8 +19,8 @@ Aufgezeichnet von den Hütern der Zeitlinien.
 
 **Kapitelfragment VII: Der Schwur am Schwarzen Brett**
 
-Das Tageslicht brachte keine Ruhe, sondern Entscheidungen. Vor der Wandtafel der Taverne traten die Fünf zusammen, um über die Verteilung von Schicksal und Sold zu beratschlagen. Nach langem Abwägen und feurigen Diskussionen webten sie eine Route, die mehrere Pfade vereinen sollte: Die Säuberung des Tavernenkellers, die Suche nach einem verlorenen Erbstück, eine gefahrvolle Expedition zu Durlags Turm sowie die Jagd nach einem legendären Artefakt.
-Bevor sie jedoch in die Tiefe stiegen, wandten sie sich einer Tat der Barmherzigkeit zu. Sie suchten den Hof von Oma Rosi auf, deren Anwesen und Vorgarten von wühlenden Ankhegs verwüstet worden war, um nach dem Rechten zu sehen und der Alten Beistand zu leisten.
+Das Tageslicht brachte keine Ruhe, sondern Entscheidungen. Während Quintherra sich mit dem schmerzvollen Brief ihres Ehemannes in der Hand auf ihren eigenen, einsamen Weg durch die Straßen machte, traten die verbliebenen Gefährten vor die Wandtafel der Taverne. Sie beratschlagten eingehend über die Verteilung von Schicksal und Sold. Nach langem Abwägen und feurigen Diskussionen webten sie eine Route, die mehrere Pfade vereinen sollte: Die Säuberung des Tavernenkellers, die Suche nach einem verlorenen Erbstück, eine gefahrvolle Expedition zu Durlags Turm sowie die Jagd nach einem besonderen Artefakt.
+Bevor sie jedoch gemeinsam in die Tiefe stiegen, wandten sie sich einer Tat der Barmherzigkeit zu. Sie suchten den Hof von Oma Rosi auf, deren Anwesen und Vorgarten von wühlenden Ankhegs verwüstet worden war, um nach dem Rechten zu sehen und der Alten Beistand zu leisten.
 
 **Kapitelfragment VIII: Pulverdampf und die Schatten im Keller**
 
