@@ -47,5 +47,5 @@ Die Rettungsaktion im Gewölbe wendete sich rasch zur Katastrophe. Ein tückisch
 ## 🗝️ Wichtige Notizen & Errungenschaften
 
 * **Gefundene/gekaufte Gegenstände:**
-
+Aufnäher für Ikarus Mantel, Schild, diverse Unterlagen über das Hause Peregrin (Quintherra)
 ---
