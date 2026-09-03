@@ -6,7 +6,7 @@ nav_order: 3
 
 # 📜 Das Schwarze Brett von Gullykin
 
-<p><em>Am Eingang der Taverne hängt eine verwitterte Eichenplatte. Dutzende Pergamente sind mit rostigen Nägeln und Wachssiegeln daran befestigt. Einige Quests versprechen Ruhm, andere lediglich ein paar Silbermünzen...</em></p>
+<p><em>Am Eingang der Taverne hängt eine verwitterte Eichenplatte. Dutzende Pergamente sind mit rostigen Nägeln und Wachssiegeln daran befestigt. Einige Quests versprechen Ruhm, andere ein paar Goldmünzen...</em></p>
 
 <div class="quest-grid">
 
