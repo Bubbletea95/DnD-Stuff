@@ -35,6 +35,7 @@ Sollte dennoch ein Verrückter hinübergehen: Mein Urahn verlor bei der Zerstör
 *Gez. Gandolar Gerstenmalz, Braumeister*</p>
 <p><strong>Belohnung: </strong>120 Goldmünzen oder kostenlose Unterkunft für 2 Wochen</p>
 </div>
+</div>
 
 <div class="quest-grid">
 
@@ -46,6 +47,7 @@ Sollte dennoch ein Verrückter hinübergehen: Mein Urahn verlor bei der Zerstör
 *Nachtrag:* Vermisst wird seit 3 Tagen der Händler *Garrick*, der trotz Warnung dachte, er könne dort Zwergen-Schätze bergen. Wer Nachricht über sein Schicksal bringt (oder seine Leiche zur Bestattung geborgen hat), meldet sich bei seiner Frau am Dorfplatz.</p>
 
 <p><strong>Belohnung: </strong>100 Goldmünzen für die Aufklärung sein Verbleibens.</p>
+</div>
 </div>
 
 <div class="quest-grid">
@@ -60,6 +62,7 @@ Wer entsprechendes Material hat oder aus dem Wald beschaffen kann, meldet sich a
 *Gez. Bran der Zimmermann* </p>
 
 <p><srong>Belohnung: </srong>50 Goldmünzen + Handwerksdienstleistungen</p>
+</div>
 </div>
 
 <div class="quest-grid">
@@ -76,6 +79,7 @@ Suche zwei oder drei wehrhafte Recken, die mit mir hinabsteigen und nachsehen, w
 
 <p><strong>Belohnung: </strong>40 Goldmünzen + Verpflegung</p>
 </div>
+</div>
 
 
  <div class="quest-grid">
@@ -87,6 +91,7 @@ Suche zwei oder drei wehrhafte Recken, die mit mir hinabsteigen und nachsehen, w
 Ich suche nach Aufzeichnungen oder reliktwürdigen Gegenständen aus den Ruinen von Firewine oder Durlag’s Tower. Insbesondere Artefakte, die auf <strong>necro-arkane Schwingungen</strong> oder <strong>astrale Energien</strong> reagieren.
 
   Diskrete Abgabe und sofortige Auszahlung in Gold. Hinterlasst eine Nachricht im Schankraum unter dem Namen *„Der Sammler“*.</p>
+  </div>
   </div>
 
    <div class="quest-grid">
@@ -105,5 +110,6 @@ Meine kleine Nichte Sarah und ich haben wieder den Ofen angeheizt und backen **O
 *Gez. Großmutter Rosi & Die kleine Sarah*
 
 *(P.S.: Wer die Schüssel von letzter Woche zurückbringt, bekommt ein extra Keks mit Sternen-Zucker oben drauf!)*</p>
+</div>
 </div>
     
