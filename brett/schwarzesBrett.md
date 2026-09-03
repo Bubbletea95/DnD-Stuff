@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Schwarzes Brett
+title: Schwarzes Brett von Gullykin
 nav_order: 3
 ---
 
@@ -17,7 +17,7 @@ nav_order: 3
       Die verdammten <strong>Ankhegs</strong> graben sich mal wieder viel zu nah an unsere Palisaden-Pfähle heran! Gestern hat eines dieser gepanzerten Viecher beinahe den Vorgarten von Tante Rosi verschlungen.
 
    Bringt mir **3 intakte Panzerschuppen** dieser Riesenkäfer als Beweis.<br>
-      *Gez. Benda Luckyfoot*</p>
+      <em>Gez. Benda Luckyfoot</em></p>
     <p><strong>Belohnung:</strong> 75 Goldmünzen + 1 Fässchen „Gullykin Extra-Gärung“ </p>
   </div>
 
@@ -32,7 +32,7 @@ nav_order: 3
       
 Sollte dennoch ein Verrückter hinübergehen: Mein Urahn verlor bei der Zerstörung der Brücke ein **elfisches Silberamulett mit einem blauen Saphir**. Solltet ihr die Geister beruhigen und den Schmuck bergen, zahle ich gut.
 
-*Gez. Gandolar Gerstenmalz, Braumeister*</p>
+<em>Gez. Gandolar Gerstenmalz, Braumeister</em></p>
 <p><strong>Belohnung: </strong>120 Goldmünzen oder kostenlose Unterkunft für 2 Wochen</p>
 </div>
 </div>
@@ -44,7 +44,7 @@ Sollte dennoch ein Verrückter hinübergehen: Mein Urahn verlor bei der Zerstör
     <h3>VERBOTEN: Exkursionen nach Durlag’s Tower</h3>
     <p>Der Rat von Gullykin weist hiermit eindringlich darauf hin: <strong>Geht nicht nach Durlag’s Tower!</strong> Der alte Zwergenturm ist voll von tödlichen Fallen, uralten Flüchen und purem Wahnsinn. Niemand kehrt von dort zurück.
 
-*Nachtrag:* Vermisst wird seit 3 Tagen der Händler *Garrick*, der trotz Warnung dachte, er könne dort Zwergen-Schätze bergen. Wer Nachricht über sein Schicksal bringt (oder seine Leiche zur Bestattung geborgen hat), meldet sich bei seiner Frau am Dorfplatz.</p>
+<em>Nachtrag:</em> Vermisst wird seit 3 Tagen der Händler <em>Garrick</em>, der trotz Warnung dachte, er könne dort Zwergen-Schätze bergen. Wer Nachricht über sein Schicksal bringt (oder seine Leiche zur Bestattung geborgen hat), meldet sich bei seiner Frau am Dorfplatz.</p>
 
 <p><strong>Belohnung: </strong>100 Goldmünzen für die Aufklärung sein Verbleibens.</p>
 </div>
@@ -59,9 +59,9 @@ Sollte dennoch ein Verrückter hinübergehen: Mein Urahn verlor bei der Zerstör
 
 Wer entsprechendes Material hat oder aus dem Wald beschaffen kann, meldet sich am Südtor.
 
-*Gez. Bran der Zimmermann* </p>
+<em>Gez. Bran der Zimmermann</em> </p>
 
-<p><srong>Belohnung: </srong>50 Goldmünzen + Handwerksdienstleistungen</p>
+<p><srong>Belohnung: </strong>50 Goldmünzen + Handwerksdienstleistungen</p>
 </div>
 </div>
 
@@ -75,7 +75,7 @@ Wer entsprechendes Material hat oder aus dem Wald beschaffen kann, meldet sich a
 
 Suche zwei oder drei wehrhafte Recken, die mit mir hinabsteigen und nachsehen, was dort unten die Bierfässer beschädigt.
 
-*Gez. Gandolar Gerstenmalz*</p>
+<em>Gez. Gandolar Gerstenmalz</em></p>
 
 <p><strong>Belohnung: </strong>40 Goldmünzen + Verpflegung</p>
 </div>
@@ -90,7 +90,7 @@ Suche zwei oder drei wehrhafte Recken, die mit mir hinabsteigen und nachsehen, w
     <p>An reisende Abenteurer: <br>
 Ich suche nach Aufzeichnungen oder reliktwürdigen Gegenständen aus den Ruinen von Firewine oder Durlag’s Tower. Insbesondere Artefakte, die auf <strong>necro-arkane Schwingungen</strong> oder <strong>astrale Energien</strong> reagieren.
 
-  Diskrete Abgabe und sofortige Auszahlung in Gold. Hinterlasst eine Nachricht im Schankraum unter dem Namen *„Der Sammler“*.</p>
+  Diskrete Abgabe und sofortige Auszahlung in Gold. Hinterlasst eine Nachricht im Schankraum unter dem Namen <em>„Der Sammler“</em>.</p>
   </div>
   </div>
 
@@ -99,17 +99,18 @@ Ich suche nach Aufzeichnungen oder reliktwürdigen Gegenständen aus den Ruinen 
   <div class="quest-card urgent">
     <h3>[FRISCH AUS DEM OFEN] Oma Rosis & Sarahs Knusper-Ecke!</h3>
     <p>*An alle hungrigen Abenteurer, müden Krieger und Halbling-Freunde mit süßem Zahn:*
-
-Habt ihr genug von trockenem Reiseproviant und hartem Zwieback? Kommt rüber in das kleine Erdhaus mit der sonnengelben Tür direkt neben dem Dorfbrunnen!
-
-Meine kleine Nichte Sarah und ich haben wieder den Ofen angeheizt und backen **Oma Rosis Berühmte Feuerwein-Gewürznüsse**!
-
-**Das Versprechen:** Ein einziger Bissen erwärmt das Herz, vertreibt die Kälte aus den Knochen und schmeckt nach Heimat! *(Gerüchte besagen, dass sogar ein grollender Magen nach drei Keksen für 4 Stunden friedlich ist!)*
+      
+  Habt ihr genug von trockenem Reiseproviant und hartem Zwieback? Kommt rüber in das kleine Erdhaus mit der sonnengelben Tür direkt neben dem Dorfbrunnen!
+  
+  Meine kleine Nichte Sarah und ich haben wieder den Ofen angeheizt und backen <strong>Oma Rosis Berühmte Feuerwein-Gewürznüsse</strong>!
+  
+  <strong>Das Versprechen:</strong> Ein einziger Bissen erwärmt das Herz, vertreibt die Kälte aus den Knochen und schmeckt nach Heimat! <em>(Gerüchte besagen, dass sogar ein grollender Magen nach drei Keksen für 4 Stunden friedlich ist!)</em>
+  
 - **Sonderangebot heute:** Eine Tüte frisch gebackener Kekse für nur **5 Kupferstücke** – oder geschenkt, wenn ihr der kleinen Sarah eine spannende (aber nicht *zu* gruselige!) Geschichte von euren Reisen erzählt!
 
-*Gez. Großmutter Rosi & Die kleine Sarah*
+<em>Gez. Großmutter Rosi & Die kleine Sarah</em>
 
-*(P.S.: Wer die Schüssel von letzter Woche zurückbringt, bekommt ein extra Keks mit Sternen-Zucker oben drauf!)*</p>
+<em>(P.S.: Wer die Schüssel von letzter Woche zurückbringt, bekommt ein extra Keks mit Sternen-Zucker oben drauf!)</em></p>
 </div>
 </div>
     
