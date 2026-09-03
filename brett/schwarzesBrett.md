@@ -13,15 +13,25 @@ nav_order: 3
   <div class="quest-card urgent">
     <span class="quest-tag">Dringend!</span>
     <h3>Kammerjäger gesucht – Belohnung in Gold & Freibier!</h3>
-    <p>*An alle mutigen Gestalten mit scharfen Klingen:*
-      Die verdammten **Ankhegs** graben sich mal wieder viel zu nah an unsere Palisaden-Pfähle heran! Gestern hat eines dieser gepanzerten Viecher beinahe den Vorgarten von Tante Rosi verschlungen.
+    <p><strong>An alle mutigen Gestalten mit scharfen Klingen</strong><br>
+      Die verdammten <strong>Ankhegs</strong> graben sich mal wieder viel zu nah an unsere Palisaden-Pfähle heran! Gestern hat eines dieser gepanzerten Viecher beinahe den Vorgarten von Tante Rosi verschlungen.
 
-   Bringt mir **3 intakte Panzerschuppen** dieser Riesenkäfer als Beweis.
-      *Gez. Benda Luckyfoot*
-
-   **Belohnung:** 75 Goldmünzen + 1 Fässchen „Gullykin Extra-Gärung“</p>
-    <p><strong>Belohnung:</strong> 100 GM</p>
+   Bringt mir **3 intakte Panzerschuppen** dieser Riesenkäfer als Beweis.<br>
+      *Gez. Benda Luckyfoot*</p>
+    <p><strong>Belohnung:</strong> 75 Goldmünzen + 1 Fässchen „Gullykin Extra-Gärung“ </p>
   </div>
 
 </div>
 
+<div class="quest-grid">
+
+  <div class="quest-card urgent">
+    <span class="quest-tag">Dringend!</span>
+    <h3>Warnung an alle Neugierigen & Suche nach einem Erbstück</h3>
+    <p>Wer auch immer vorhat, die wacklige Seilbrücke hinüber zu den **Ruinen von Firewine Bridge** zu überqueren: Lasst es bleiben! Dort hausen die Geister derer, die einst starben und bis heute keinen Schlaf finden!
+      
+Sollte dennoch ein Verrückter hinübergehen: Mein Urahn verlor bei der Zerstörung der Brücke ein **elfisches Silberamulett mit einem blauen Saphir**. Solltet ihr die Geister beruhigen und den Schmuck bergen, zahle ich gut.
+
+*Gez. Gandolar Gerstenmalz, Braumeister*</p>
+<p><strong>Belohnung: </strong>120 Goldmünzen oder kostenlose Unterkunft für 2 Wochen</p>
+</div>
