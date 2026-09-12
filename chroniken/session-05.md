@@ -21,7 +21,7 @@ Aufgezeichnet von den Hütern der Zeitlinien.
 
 Im arkanen Dämmerlicht des Gewölbes stand der magische Henker Ikarus als einziger Wächter über den Körpern seiner schlafenden Gefährten. Lord Valerius Peregrin nutzte die Stunde des Mutes und bot dem Henker Macht an – die Verführung, die Freunde dem Schicksal zu überlassen. Doch Ikarus’ Wille brach nicht. Statt auf den Pakt einzugehen, weckte er Zricha und Fiona mit einer gezielten Ohrfeige aus der arkanen Ohnmacht.
 
-Als Valerius das Signal zur Exekution des gefesselten Kyros gab, verhinderte Fiona die tödliche Injektion mit einem gezielten Schuss, der die Spritze aus der Hand des ersten Arztes riss. Der zweite Arzneimeister stolperte und spießte sich die Nadel selbst in die Brust. Kyros, von Ikarus geweckt, schlug mit entfesselter Arkanik auf den Lord ein; die wilden Funken seiner Magie ließen Kyroz gen Decke steigen und hüllten später fast die gesamte Gruppe in Unsichtbarkeit.
+Als Valerius das Signal zur Exekution des gefesselten Kyros gab, verhinderte Fiona die tödliche Injektion mit einem gezielten Schuss, der die Spritze aus der Hand des ersten Arztes riss. Der zweite Arzneimeister stolperte und spießte sich die Nadel selbst in die Brust. Kyros, ebenfalls von Ikarus geweckt, nur in knapper Unterwäsche gekleidet und mit auffälligen Schuppen übersäht, schlug mit entfesselter Arkanik auf den Lord ein; die wilden Funken seiner Magie ließen Kyroz gen Decke steigen und hüllten später fast die gesamte Gruppe in Unsichtbarkeit.
 
 Als die Lage kippte, ramzte Valerius die verbliebene Spritze vollends in das Herz seines gestürzten Arztes, ließ eine Nebelphiole fallen und wandte sich dem schemenhaften Portal zu:
 
@@ -43,7 +43,7 @@ Dahinter offenbarte sich ein Schatzraum voller Gold und Prunk. Vom Rausch des Re
 
 Ignorierend der Warnung der Geister, dass mehr als ein gestohlener Gegenstand den Fluch der Tiefe nach sich ziehe, ergriffen Ikarus, Fiona und Kyros mit prall gefüllten Taschen die Flucht an die Oberwelt. Nach einem kurzen Auszählspiel – welches Kyros verlor – zündete der Tiefling auf Fionas Geheiß die Sprengladung am Höhleneingang. Gewissenlos versiegelten sie den Ausweg, ungeachtet dessen, dass Zricha und Quintherra noch immer im Bauch des Turmes verweilten.
 
-Drei der Fünf zogen nun zusammen mit dem geretteten Garrick zurück gen Gullykin. Dort verabschiedeten sie den Mann, nachdem sie sich um seinen Zustand mehr sorgten als um Zricha und Quintherra Verbleib und suchten danach ihr Zimmer auf. Ikarus verfasste in den Nachtstunden eine Depesche an seinen König, um das Herrscherhaus über die Untaten und Machenschaften des Hauses Peregrin in Kenntnis zu setzen. Doch die Ruhe hielt nicht an: Erneute Albträume verinstabilisierten ihren Schlaf.
+Drei der Fünf zogen nun zusammen mit dem geretteten Garrick zurück gen Gullykin. Dort verabschiedeten sie den Mann, nachdem sie sich um seinen Zustand mehr sorgten als um Zricha´s und Quintherra´s Verbleib und suchten danach ihr Zimmer auf. Ikarus verfasste in den Nachtstunden eine Depesche an seinen König, um das Herrscherhaus über die Untaten und Machenschaften des Hauses Peregrin in Kenntnis zu setzen. Kyroz fand hier auch nun endlich seine Kleidung wieder. Doch die Ruhe hielt nicht lange an: Erneute Albträume verinstabilisierten ihren Schlaf.
 
 <strong>Kapitelfragment XVII: Die dunklen Sarkophage</strong>
 
@@ -57,7 +57,7 @@ Ohne den Ausweg zu kennen, legten sich die beiden Verbliebenen auf dem kühlen S
 
 Die Schicksalsgemeinschaft ist zersplittert. An der Oberfläche stehen Ikarus, Fiona und Kyros unter dem Schatten des Geisterfluchs und den Nachwirkungen ihrer Tat, während die Nachricht an den König unterwegs ist. In den Tiefen von Durlags Tower ruhen Quintherra und die von Seelenhungerkräften gezeichnete Zricha hinter den Trümmern des Einsturzes.
 
-Die Tinte trocknet, während die Wege der Fünf sich in Dunkelheit und Gold trennen...
+Die Tinte trocknet, während sich die Wege von Quintherra, Zricha, Ikarus, Kyroz und Fiona in Dunkelheit und Gold trennen...
 
 </div>
 ---
