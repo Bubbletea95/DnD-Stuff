@@ -43,7 +43,7 @@ Dahinter offenbarte sich ein Schatzraum voller Gold und Prunk. Vom Rausch des Re
 
 Ignorierend der Warnung der Geister, dass mehr als ein gestohlener Gegenstand den Fluch der Tiefe nach sich ziehe, ergriffen Ikarus, Fiona und Kyros mit prall gefüllten Taschen die Flucht an die Oberwelt. Nach einem kurzen Auszählspiel – welches Kyros verlor – zündete der Tiefling auf Fionas Geheiß die Sprengladung am Höhleneingang. Gewissenlos versiegelten sie den Ausweg, ungeachtet dessen, dass Zricha und Quintherra noch immer im Bauch des Turmes verweilten.
 
-Drei der Fünf zogen nun zusammen mit dem geretteten Garrick zurück gen Gullykin. Dort verabschiedeten sie den Mann, nachdem sie sich um seinen Zustand mehr sorgten als um Zricha und Quintherra und suchten ihr Zimmer auf. Ikarus verfasste in den Nachtstunden eine Depesche an seinen König, um das Herrscherhaus über die Untaten und Machenschaften des Hauses Peregrin in Kenntnis zu setzen. Doch die Ruhe hielt nicht an: Erneute Albträume verinstabilisierten ihren Schlaf.
+Drei der Fünf zogen nun zusammen mit dem geretteten Garrick zurück gen Gullykin. Dort verabschiedeten sie den Mann, nachdem sie sich um seinen Zustand mehr sorgten als um Zricha und Quintherra Verbleib und suchten danach ihr Zimmer auf. Ikarus verfasste in den Nachtstunden eine Depesche an seinen König, um das Herrscherhaus über die Untaten und Machenschaften des Hauses Peregrin in Kenntnis zu setzen. Doch die Ruhe hielt nicht an: Erneute Albträume verinstabilisierten ihren Schlaf.
 
 <strong>Kapitelfragment XVII: Die dunklen Sarkophage</strong>
 
