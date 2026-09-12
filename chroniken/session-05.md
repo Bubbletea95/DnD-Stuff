@@ -19,7 +19,7 @@ Aufgezeichnet von den Hütern der Zeitlinien.
 
 <strong>Kapitelfragment XIV: Das feile Angebot und das Ungeheuer von Durlag</strong>
 
-Im arkanen Dämmerlicht des Gewölbes stand der magische Henker Ikarus als einziger Wächter über den Körpern seiner schlafenden Gefährten. Lord Valerius Peregrin nutzte die Stunde des Mutes und bot dem Henker Macht an – die Verführung, die Freunde dem Schicksal zu überlassen. Doch Ikarus’ Wille brach nicht. Statt auf den Pakt einzugehen, weckte er Zricha und Fiona aus der arkanen Ohnmacht.
+Im arkanen Dämmerlicht des Gewölbes stand der magische Henker Ikarus als einziger Wächter über den Körpern seiner schlafenden Gefährten. Lord Valerius Peregrin nutzte die Stunde des Mutes und bot dem Henker Macht an – die Verführung, die Freunde dem Schicksal zu überlassen. Doch Ikarus’ Wille brach nicht. Statt auf den Pakt einzugehen, weckte er Zricha und Fiona mit einer gezielten Ohrfeige aus der arkanen Ohnmacht.
 
 Als Valerius das Signal zur Exekution des gefesselten Kyros gab, verhinderte Fiona die tödliche Injektion mit einem gezielten Schuss, der die Spritze aus der Hand des ersten Arztes riss. Der zweite Arzneimeister stolperte und spießte sich die Nadel selbst in die Brust. Kyros, von Ikarus geweckt, schlug mit entfesselter Arkanik auf den Lord ein; die wilden Funken seiner Magie ließen Kyroz gen Decke steigen und hüllten später fast die gesamte Gruppe in Unsichtbarkeit.
 
