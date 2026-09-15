@@ -25,7 +25,7 @@ Als Valerius das Signal zur Exekution des gefesselten Kyros gab, verhinderte Fio
 
 Als die Lage kippte, ramzte Valerius die verbliebene Spritze vollends in das Herz seines gestürzten Arztes, ließ eine Nebelphiole fallen und wandte sich dem schemenhaften Portal zu:
 
-„Ein Amateursieg, Ikarus. Genießt euren kleinen Sieg. Wir sehen uns bestimmt wieder.“
+„Ein Amateursieg, Ikarus. Genießt euren kleinen Triumph. Wir sehen uns bestimmt wieder.“
 
 Mit diesen Worten entschwand der Lord. Der zurückgelassene Arzt mutierte unter den Qualen des Gifts in ein scheußliches Ungeheuer mit ätzender Feuerhaut. Erst nach hartem Kampfstreich sank das Monster dahin. Der zweite Arzt, vor Todesangst eingenässt und flehend im Staub liegend, gestand unter Verhör, dass Valerius seine Familie bedrohte. Doch da er keine weiteren Geheimnisse, die hinter der arkanen Tür lagen, preisgeben konnte, richtete das Schwert von Ikarus den Wärter vollstreckend hin.
 
