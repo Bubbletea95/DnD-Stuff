@@ -43,3 +43,12 @@ Nachdem ihnen der Fuchs noch eine Stoffpuppe, die Manuel sehr ähnelte, vor die 
 ### Der Stand der Chronik
 
 Das zweite Ensemble hat sich aus den Fesseln der Katakomben befreit. Während die Tinte trocknet und sich Zricha und Quintherra den Pfaden nach Gullykin nähern, bleiben die genauen Taten und der Aufenthaltsort von Kyroz, Fiona und Ikarus für sie noch ungewiss
+
+</div>
+---
+
+## 🗝️ Wichtige Notizen & Errungenschaften
+
+* **Gefundene/gekaufte Gegenstände:**
+
+---
