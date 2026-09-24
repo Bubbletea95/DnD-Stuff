@@ -1,6 +1,21 @@
+---
+layout: default
+title: "Session 06/2: getrennte Wege"
+nav_title: "Session 06/2"
+parent: Chroniken
+nav_order: -6
+---
 
+# 📜 Session 06/2: getrennte Wege
 
+<p markdown="1">
+**Datum:** 23. September 2026 | **Ort:** Dulag Tower
+</p>
 
+---
+<div class="pergament-box" markdown="1">
+
+Aufgezeichnet von den Hütern der Zeitlinien.
 
 
 ### Kapitelfragment XXI: Die Echos der Schatten
