@@ -50,5 +50,9 @@ Das zweite Ensemble hat sich aus den Fesseln der Katakomben befreit. Während di
 ## 🗝️ Wichtige Notizen & Errungenschaften
 
 * **Gefundene/gekaufte Gegenstände:**
+* Stoffpuppe
+* alte Knochen
+* bernsteinfarbene Vogelstatue
+* Stein eines Sarkophags
 
 ---
