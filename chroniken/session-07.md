@@ -3,7 +3,7 @@ layout: default
 title: "Session 7: Die Ankhegs"
 nav_title: "Session 7"
 parent: Chroniken
-nav_order: -6
+nav_order: -7
 ---
 
 # 📜 Session 7: Die Ankhegs
