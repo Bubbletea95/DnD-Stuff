@@ -29,15 +29,15 @@ Die Gruppe bereitete sich akribisch auf den Kampf vor, während Quinn mit ihrer 
 
 Der Kampf forderte jedoch seinen Preis. Quinn ging schwer getroffen zu Boden, als ätzende Säure in ihre leeren Augenhöhlen drang. Zricha eilte herbei, wirkte heilende Magie und legte schützend ihre Flügel um die Verwundete. Am Ende des Gefechts war Kyroz von Furcht vor Stella ergriffen.
 
-Während Ikarus, Fiona und Zricha auf ihren Reittieren nach Gullykin vorausflogen, um bei der Bürgermeisterin die Belohnung für den Ankheg-Kampf einzustreichen, blieben Quinn und Kyroz zurück. Quinn nahm sanft Kyroz’ Hände in ihre, um ihn zu beruhigen, und gemeinsam traten sie den Weg zu Fuß an.
+Während Ikarus, Fiona und Zricha nach Gullykin vorausflogen, um bei der Bürgermeisterin die Belohnung für den Ankheg-Kampf einzustreichen, blieben Quinn und Kyroz zurück. Quinn nahm sanft Kyroz’ Hände in ihre, um ihn zu beruhigen, und gemeinsam traten sie den Weg zu Fuß an.
 
 ### Kapitelfragment XXVI: Von Aschenen Händen und Schottenröcken
 
-Auf dem Weg nach Gullykin vertieften Quinn und Kyroz ihr Gespräch. Quinn hinterfragte Kyroz’ unheimliches Lachen beim Wurf der Bombe, woraufhin dieser von seiner düsteren Vergangenheit berichtete: Von Entführung, der Aschenen Hand, Gefängnis und Folter bis hin zu grausamen Experimenten, seinen Drachenschuppen und der unberechenbaren Wildmagic.
+Auf dem Weg nach Gullykin vertieften Quinn und Kyroz ihr Gespräch. Quinn hinterfragte Kyroz’ unheimliches Lachen beim Wurf der Bombe, woraufhin dieser von seiner düsteren Vergangenheit berichtete: Von Entführung, Gefängnis und Folter bis hin zu grausamen Experimenten, seinen Drachenschuppen und der unberechenbaren Wildmagic.
 
 Quinn wiederum erzählte, wie sie überhaupt auf die Idee kam, auf Abenteuer zu ziehen – von Nicolas, einer Hochzeit und ihrer Vergangenheit als scheinbar unwichtige Kinder. In einem skurrilen Experiment nutzten sie einen Dolch, um Quinn ein Loch hinter dem Nasenbein zu stechen; doch die Wunde heilte augenblicklich wieder ab, ohne Spuren zu hinterlassen. Sie sprachen über ihre Interessen, die Zirkuszeit und ihre Träume für die Zeit nach dem Abenteuer.
 
-In bester Laune schnappten sich die beiden Schottenröcke sowie einen Dudelsack und eine Geige. So kostümiert und musizierend trafen sie schließlich auf die anderen in Gullykin, wo sie auch in der lokalen Taverne zum Ständchen aufspielten.
+In bester Laune schnappten sich die beiden Schottenröcke sowie einen Dudelsack und eine Geige. So trafen sie schließlich auf die anderen in Gullykin, wo sie auch in der lokalen Taverne zum Ständchen aufspielten.
 
 ### Kapitelfragment XXVII: Schwerttanz und Tastenklang
 
@@ -46,7 +46,8 @@ Später am Abend bat Zricha Ikarus um Unterricht in der Zauber- und Schwertkampf
 Zurück im Schankraum ließ Quinn mit arkaner Macht ein riesiges Piano erscheinen und stimmte ein kraftvolles Lied an. Als der Abend seinen Tribut forderte und Zricha von der Anstrengung erschöpft war, trug Ikarus sie nach oben ins Bett.
 
 ### Kapitelfragment XXVIII: Stille Notizen und der Rotstift der Wahrheit
-Der nächste Morgen begann mit Aufruhr. Ikarus bestahl heimlich Fiona, was jedoch nicht verborgen blieb. Kurz darauf eröffnete Quinn eine wilde Kissenschlacht – vor allem, weil Ikarus sie magisch verstummen gelassen hatte und sie nicht sprechen konnte. Fiona stellte Ikarus wütend zur Rede und bedrohte ihn direkt mit einem ihrer Pfeile.
+
+Der nächste Morgen begann mit Aufruhr. Ikarus bestahl heimlich Fiona, was jedoch nicht verborgen blieb. Kurz darauf eröffnete Quinn eine wilde Kissenschlacht – vor allem, weil Ikarus sie magisch verstummen ließ. Fiona stellte Ikarus wütend zur Rede und bedrohte ihn direkt mit einem ihrer Pfeile.
 
 Stumm, aber entschlossen, begann Quinn Nachrichten auf Zettel zu schreiben. Die gesamte Gruppe geriet in eine hitzige Diskussion darüber, warum Ikarus gestohlen hatte. Mithilfe einer Zone der Wahrheit und arkaner Überprüfungen versuchten sie herauszufinden, was mit Ikarus vorging. Um die Wogen zu glätten, schickte Kyroz Ikarus magisch in den Schlaf und hielt anschließend gemeinsam mit Zricha, die ebenfalls einschlief, Wache.
 
@@ -54,11 +55,11 @@ Stumm, aber entschlossen, begann Quinn Nachrichten auf Zettel zu schreiben. Die 
 
 Währenddessen machten sich Quinn und Fiona auf den Weg zurück zur Klerikerin, um nach Möglichkeiten zu suchen, Ikarus zu helfen. Auf dem Weg führten die beiden ein tiefgründiges Gespräch über ihre wahren Ziele, ihre Vergangenheiten und den kühnen Gedanken, das Anwesen von Valerius komplett in die Luft zu sprengen.
 
-Zur selben Zeit saß Kyroz entspannt auf seinem Bett, schmauste sein Frühstück und legte seine Karten. Quinn zog sich schließlich zurück und verfasste einen emotionalen Brief an Nicolas.
+Zur selben Zeit saß Kyroz entspannt auf seinem Bett, schmauste sein Frühstück und legte seine Karten. Quinn zog sich schließlich zurück und verfasste einen Brief an Nicolas.
 
 ### Der Stand der Chronik (Gegenwart)
 
-Die Pfade der Gefährten sind wieder vereint, doch neue Schatten werfen ihre Schatten voraus. Während Ikarus schläft und die Gruppe nach Antworten sucht, wächst der Zusammenhalt in Gullykin vor der nächsten großen Etappe.
+Die Pfade der Gefährten sind wieder vereint. Während Ikarus schläft und die Gruppe nach Antworten sucht, wächst der Zusammenhalt in Gullykin vor der nächsten großen Etappe.
 
 Die Tinte trocknet, während die Zeilen der Chronik nach dem nächsten Kapitel verlangen...
 
