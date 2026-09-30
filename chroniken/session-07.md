@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Session 7: Die Askhegs"
+title: "Session 7: Die Ankhegs"
 nav_title: "Session 7"
 parent: Chroniken
 nav_order: -6
 ---
 
-# 📜 Session 7: Die Askhegs
+# 📜 Session 7: Die Ankhegs
 
 <p markdown="1">
 **Datum:** 27. September 2026 | **Ort:** Gullykin
