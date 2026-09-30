@@ -65,5 +65,8 @@ Die Tinte trocknet, während sich die Wege von Quintherra, Zricha, Ikarus, Kyroz
 ## 🗝️ Wichtige Notizen & Errungenschaften
 
 * **Gefundene/gekaufte Gegenstände:**
+* Zauberbuch von Valerius
+* Flaschen mit grüner Flüssigkeit
+* Gold und Schätze aus den Katakomben
 
 ---
