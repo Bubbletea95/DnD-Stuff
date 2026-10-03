@@ -19,7 +19,7 @@ Aufgezeichnet von den Hütern der Zeitlinien.
 
 ### Kapitelfragment XXIV: Das Wiedersehen und das Erbe von Gullykin<br>
 
-In den ruhigen Ausläufern von Gullykin trafen die Fäden des Schicksals endlich wieder zusammen. Bei der Zusammenkunft tauschten die Gefährten detailliert ihre Erlebnisse aus den Illusionen der Regisseurin und den dunklen Hallen unter Durlags Tower aus. Dabei fielen jedoch nicht nur Worte ins Gewicht, sondern auch die sichtbaren Spuren der Reise: Zrichas und Augen Quinns Augen. Kyroz schwelgte unterdessen in gewohnt ausschweifenden Anekdoten über seine Vergangenheit im Zirkus.
+In den ruhigen Ausläufern von Gullykin trafen die Fäden des Schicksals endlich wieder zusammen. Sie taschten detailliert ihre Erlebnisse aus den Illusionen der Regisseurin und den dunklen Hallen unter Durlags Tower aus. Kyroz schwelgte unterdessen in gewohnt ausschweifenden Anekdoten über seine Vergangenheit im Zirkus.
 
 Um ihre Reise fortzusetzen, suchte die Gruppe die Klerikerin von Gullykin auf, um deren Teleportationskreis zu nutzen. Die Klerikerin stimmte den Handel: Die Gefährten mussten die schrecklichen Ankhegs beseitigen, die die Gegend unsicher machten.
 
