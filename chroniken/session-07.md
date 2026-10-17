@@ -6,7 +6,7 @@ parent: Chroniken
 nav_order: -7
 ---
 
-# 📜 Session 7: Die Ankhegs
+# 📜 Session 07: Die Ankhegs
 
 <p markdown="1">
 **Datum:** 27. September 2026 | **Ort:** Gullykin
