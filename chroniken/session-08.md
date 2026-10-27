@@ -1,4 +1,19 @@
+---
+layout: default
+title: "Session 7: Die Ankhegs"
+nav_title: "Session 7"
+parent: Chroniken
+nav_order: -7
+---
 
+# 📜 Session 07: Die Ankhegs
+
+<p markdown="1">
+**Datum:** 27. September 2026 | **Ort:** Gullykin
+</p>
+
+---
+<div class="pergament-box" markdown="1">
 
 
 Kapitelfragment XXX: Das arkane Tor nach Waterdeep
