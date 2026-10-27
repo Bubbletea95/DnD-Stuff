@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "Session 7: Die Ankhegs"
-nav_title: "Session 7"
+title: "Session 8: Der Club und seine Geheimnisse"
+nav_title: "Session 8"
 parent: Chroniken
-nav_order: -7
+nav_order: -8
 ---
 
-# 📜 Session 07: Die Ankhegs
+# 📜 Session 08: Die Ankhegs
 
 <p markdown="1">
-**Datum:** 27. September 2026 | **Ort:** Gullykin
+**Datum:** 17. Oktober 2026 | **Ort:** Waterdeep
 </p>
 
 ---
@@ -29,3 +29,7 @@ Schließlich stießen sie auf den Schwarzen Salon, der sich als düsteres Verlie
 
 Der Stand der Chronik (Gegenwart)
 In den prunkvollen und zugleich verdorbenen Hallen der Metropole schließt sich das Netz um die Aschene Hand und Lord Valerius weiter. Die Tinte trocknet, während die Musik der Gala die dunklen Geheimnisse des Clubs übertönt...
+
+
+</div>
+---
