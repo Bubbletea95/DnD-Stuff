@@ -6,7 +6,7 @@ parent: Chroniken
 nav_order: -8
 ---
 
-# 📜 Session 08: Die Ankhegs
+# 📜 Session 08: Der Club und seine Geheimnisse
 
 <p markdown="1">
 **Datum:** 17. Oktober 2026 | **Ort:** Waterdeep
