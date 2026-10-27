@@ -22,7 +22,7 @@ Durch das magische Portal der Klerikerin verließen die Gefährten Gullykin und 
 
 ### Kapitelfragment XXXI: Seide, Prunk und fette Rechnungen
 
-Die Gruppe teilte sich im Nobelviertel für die Vorbereitungen auf. Ikarus genoss die ruhige Eleganz in Vesperions Emporium für feine Stoffe und erstand prachtvolle Gewänder. Der Rest der Gruppe wandte sich an die Schneiderei von Ursula Brenndusta im Mittelklasse-Viertel, wo Quinn ihre gesamte Zeche von 240 Goldstücken kurzerhand mit adliger Dreistigkeit auf die Rechnung des Hauses Peregrin schreiben ließ.
+Die Gruppe teilte sich im Nobelviertel für die Vorbereitungen auf. Ikarus genoss die ruhige Eleganz in "Vesperions Emporium für Stoffe und Schneiderein" und erstand prachtvolle Gewänder. Der Rest der Gruppe wandte sich an die Schneiderei von Ursula Brenndusta im Mittelklasse-Viertel, wo Quinn ihre gesamte Zeche von 240 Goldstücken kurzerhand mit adliger Dreistigkeit auf die Rechnung des Hauses Peregrin schreiben ließ.
 
 ### Kapitelfragment XXXII: Der schwarze Salon und die sieben Sünden
 
