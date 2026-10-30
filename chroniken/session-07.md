@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Session 7: Die Ankhegs"
-nav_title: "Session 7"
+title: "Session 07: Die Ankhegs"
+nav_title: "Session 07"
 parent: Chroniken
 nav_order: -7
 ---
