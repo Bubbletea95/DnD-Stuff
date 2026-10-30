@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Session 8: Der Club und seine Geheimnisse"
-nav_title: "Session 8"
+title: "Session 08: Der Club und seine Geheimnisse"
+nav_title: "Session 08"
 parent: Chroniken
 nav_order: -8
 ---
