@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Session 9: Die Suche nach den Schlüsseln"
-nav_title: "Session 9"
+title: "Session 09: Die Suche nach den Schlüsseln"
+nav_title: "Session 09"
 parent: Chroniken
 nav_order: -9
 ---
