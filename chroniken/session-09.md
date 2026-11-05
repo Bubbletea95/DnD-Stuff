@@ -29,7 +29,7 @@ Währenddessen öffnete sich der Zornraum, in dessen Mitte eine streitlustige Ge
 
 Im nächsten Raum, dem Habgierraum, herrschte eine schwere, flüsternde Atmosphäre um schlafende Personen. Die Gefährten erkannten, dass die Gestalten von einer dunklen Präsenz bestohlen worden waren, und gaben ihnen ihre Besitztümer zurück. Das unheilvolle Flüstern verstummte, und das zweite Siegel brach.
 
-In diesem Moment traf auch Fiona zum Rest der Gruppe stoßen und erhielt eine rasche Zusammenfassung der ereignisreichen Minuten. Wenig später öffnete Quinn den Trägheitsraum. Eine bleierne, erdrückende Müdigkeit lag in der Luft, gegen die Quinn sofort mit schneller, aufheiternder Musik anspielte, um alle wach und kampfbereit zu halten.
+In diesem Moment traf auch Fiona zum Rest der Gruppe und erhielt eine rasche Zusammenfassung der ereignisreichen Minuten. Wenig später öffnete Quinn den Trägheitsraum. Eine bleierne, erdrückende Müdigkeit lag in der Luft, gegen die Quinn sofort mit schneller, aufheiternder Musik anspielte, um alle wach und kampfbereit zu halten.
 
 ### Der Stand der Chronik (Gegenwart)
 
