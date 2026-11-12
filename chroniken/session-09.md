@@ -9,7 +9,7 @@ nav_order: -9
 # 📜 Session 09: Die Suche nach den Schlüsseln
 
 <p markdown="1">
-**Datum:** 29. Oktober 2026 | **Ort:** Gullykin
+**Datum:** 29. Oktober 2026 | **Ort:** Waterdeep
 </p>
 
 ---
