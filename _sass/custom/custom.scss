@@ -85,3 +85,14 @@ html, body, .main, .main-content-wrap, .main-content, .page-content {
   &.urgent .quest-tag { background: #8c2a1c; }
   &.completed .quest-tag { background: #555; }
 }
+
+/* Archiv Quest Karten */
+.quest-card.completed {
+  opacity: 0.7;
+  border-color: #666 !important;
+  background-color: #e6dcbe !important;
+  
+  .quest-tag {
+    background-color: #4a5d4e !important; /* Waldgrün für erledigt */
+  }
+}
