@@ -1,33 +1,32 @@
 /* Globaler Hintergrund & Farbschema */
 html, body, .main, .main-content-wrap, .main-content, .page-content {
-  background-color: #f4eacc !important;
-  background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
-  color: #2b1e16 !important;
+  background-color: #f4eacc;
+  background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png");
+  color: #2b1e16;
 }
 
 /* Seitenleiste im Pergament-Look */
 .side-bar {
-  background-color: rgba(235, 223, 190, 0.95) !important;
-  border-right: 2px solid #a3865c !important;
+  background-color: rgba(235, 223, 190, 0.95);
+  border-right: 2px solid #a3865c;
 }
-
 
 
 /* Suche optisch anpassen */
 .search, .search-input {
-  background-color: transparent !important;
+  background-color: transparent;
 }
 
 /* Extra Pergament-Box */
 .pergament-box {
-  background-color: #f4eacc !important;
-  background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png") !important;
-  border: 2px solid #8c2a1c !important;
-  border-radius: 6px !important;
-  padding: 20px !important;
-  margin: 20px 0 !important;
-  box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2) !important;
-  color: #2b1e16 !important;
+  background-color: #f4eacc;
+  background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png");
+  border: 2px solid #8c2a1c;
+  border-radius: 6px;
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2);
+  color: #2b1e16;
 }
 
 /* Quest-Karten Styling */
@@ -69,10 +68,10 @@ html, body, .main, .main-content-wrap, .main-content, .page-content {
 /* Archiv Quest Karten */
 .quest-card.completed {
   opacity: 0.7;
-  border-color: #666 !important;
-  background-color: #e6dcbe !important;
+  border-color: #666;
+  background-color: #e6dcbe;
   
   .quest-tag {
-    background-color: #4a5d4e !important; /* Waldgrün für erledigt */
+    background-color: #4a5d4e; /* Waldgrün für erledigt */
   }
 }
