@@ -12,22 +12,6 @@ nav_order: 3
 
   <div class="quest-card urgent">
     <span class="quest-tag">Dringend!</span>
-    <h3>Kammerjäger gesucht – Belohnung in Gold & Freibier!</h3>
-    <p><strong>An alle mutigen Gestalten mit scharfen Klingen</strong><br>
-      Die verdammten <strong>Ankhegs</strong> graben sich mal wieder viel zu nah an unsere Palisaden-Pfähle heran! Gestern hat eines dieser gepanzerten Viecher beinahe den Vorgarten von Tante Rosi verschlungen.<br>
-      <br>
-   Bringt mir <strong>3 intakte Panzerschuppen</strong> dieser Riesenkäfer als Beweis.<br>
-      <br>
-      <em>Gez. Benda Luckyfoot</em></p>
-    <p><strong>Belohnung:</strong> 75 Goldmünzen + 1 Fässchen „Gullykin Extra-Gärung“ </p>
-  </div>
-
-</div>
-
-<div class="quest-grid">
-
-  <div class="quest-card urgent">
-    <span class="quest-tag">Dringend!</span>
     <h3>Warnung an alle Neugierigen & Suche nach einem Erbstück</h3>
     <p>Wer auch immer vorhat, die wacklige Seilbrücke hinüber zu den <strong>Ruinen von Firewine Bridge</strong> zu überqueren: Lasst es bleiben! Dort hausen die Geister derer, die einst starben und bis heute keinen Schlaf finden!<br>
     <br>      
@@ -114,4 +98,18 @@ Ich suche nach Aufzeichnungen oder reliktwürdigen Gegenständen aus den Ruinen 
 <em>(P.S.: Wer die Schüssel von letzter Woche zurückbringt, bekommt ein extra Keks mit Sternen-Zucker oben drauf!)</em></p>
 </div>
 </div>
-    
+
+<h2>📦 Archiv der erfüllten Pflichten</h2>
+<div class="quest-grid">
+
+  <div class="quest-card.completed">
+   <h3>Kammerjäger gesucht – Belohnung in Gold & Freibier!</h3>
+    <p><strong>An alle mutigen Gestalten mit scharfen Klingen</strong><br>
+      Die verdammten <strong>Ankhegs</strong> graben sich mal wieder viel zu nah an unsere Palisaden-Pfähle heran! Gestern hat eines dieser gepanzerten Viecher beinahe den Vorgarten von Tante Rosi verschlungen.<br>
+      <br>
+   Bringt mir <strong>3 intakte Panzerschuppen</strong> dieser Riesenkäfer als Beweis.<br>
+      <br>
+      <em>Gez. Benda Luckyfoot</em></p>
+    <p><strong>Belohnung:</strong> 75 Goldmünzen + 1 Fässchen „Gullykin Extra-Gärung“ </p>
+  </div>
+</div>
