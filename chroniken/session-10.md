@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Session 10: -"
+title: "Session 10: - Zwischen Täuschung und Dämonen"
 nav_title: "Session 10"
 parent: Chroniken
 nav_order: -10
 ---
 
-# 📜 Session 10: -
+# 📜 Session 10: - Zwischen Täuschung und Dämonen
 
 <p markdown="1">
 **Datum:** 10. November 2026 | **Ort:** Waterdeep
