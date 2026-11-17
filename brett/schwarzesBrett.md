@@ -102,7 +102,7 @@ Ich suche nach Aufzeichnungen oder reliktwürdigen Gegenständen aus den Ruinen 
 <h2>📦 Archiv der erfüllten Pflichten</h2>
 <div class="quest-grid">
 
-  <div class="quest-card.completed">
+  <div class="quest-card completed">
    <h3>Kammerjäger gesucht – Belohnung in Gold & Freibier!</h3>
     <p><strong>An alle mutigen Gestalten mit scharfen Klingen</strong><br>
       Die verdammten <strong>Ankhegs</strong> graben sich mal wieder viel zu nah an unsere Palisaden-Pfähle heran! Gestern hat eines dieser gepanzerten Viecher beinahe den Vorgarten von Tante Rosi verschlungen.<br>
