@@ -12,7 +12,7 @@ description: "Startseite der Chroniken der Schwertküste"
 ---
 
 ## 📍 Aktueller Status
-Die Gruppe befindet sich derzeit in **Gullykin** und untersucht die Spuren rund um die *Firewine Bridge*.
+Die Gruppe befindet sich derzeit in **Waterdeep** und untersucht die Räume des Clubs Bizarre.
 
 ---
 
@@ -26,5 +26,3 @@ Die Gruppe befindet sich derzeit in **Gullykin** und untersucht die Spuren rund 
 
 ---
 
-## 📜 Letzter Bericht
-In der letzten Sitzung drang die Gruppe tief unter die Hügel von Gullykin vor...
